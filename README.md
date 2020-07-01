@@ -59,8 +59,7 @@ __Episodes list:__
 
   </details>
     
-9: Ethan Buchman, the now and then of Cosmos: [Anchor link](https://anchor.fm/citizencosmos/episodes/Ethan-Buchman--the-now-and-then-of-Cosmos-eff5vm) |
-[Episode Trailer](https://anchor.fm/citizencosmos/episodes/Ethan-Buchman-trailer-efekii)| [Web3 link](https://ipfs.io/ipfs/QmS9LfoQLdR76WhheWzJ4ch7NXm4m75amUNj4FtBQDmye3)
+9: Ethan Buchman, the now and then of Cosmos: [Episode Trailer](https://anchor.fm/citizencosmos/episodes/Ethan-Buchman-trailer-efekii) | [Anchor link](https://anchor.fm/citizencosmos/episodes/Ethan-Buchman--the-now-and-then-of-Cosmos-eff5vm) | [Web3 link](https://ipfs.io/ipfs/QmS9LfoQLdR76WhheWzJ4ch7NXm4m75amUNj4FtBQDmye3)
 
 <details>
 <summary>Episode Timeline</summary>
