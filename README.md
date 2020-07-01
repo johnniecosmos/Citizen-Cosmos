@@ -1,6 +1,6 @@
 # Citizen Cosmos
 
-Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, their tech ambitions and personalities. Feel free to like and share any episodes or just leave your comments, feedback and wishes!
+Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, their tech ambitions and personalities. Feel free to like and share any episodes or just leave your comments, feedback and wishes! **[GH pages](https://citizen-cosmos.github.io/Citizen-Cosmos/)**
 
 <div align="center">
  <img src="CitizenCosmosLogo.jpg" width="320" />
@@ -12,11 +12,9 @@ Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, t
 
 **Find us on [web3 and IPFS with cyber.page](https://cyber.page/search/citizen%20cosmos)**
 
-**[GH pages](https://citizen-cosmos.github.io/Citizen-Cosmos/)**
-
 <hr>
 
-__List of Episodes:__
+__Episodes list:__
 
 1: [Gavin from Figment Networks. Governance](https://anchor.fm/citizencosmos/episodes/Gavin-from-Figment-Networks--Governance-ed5jm8)
 
