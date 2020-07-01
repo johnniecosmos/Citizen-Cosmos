@@ -12,6 +12,8 @@ Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, t
 
 **Find us on [web3 and IPFS with cyber.page](https://cyber.page/search/citizen%20cosmos)**
 
+**[GH pages](https://citizen-cosmos.github.io/Citizen-Cosmos/)**
+
 <hr>
 
 __List of Episodes:__
