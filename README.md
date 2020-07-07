@@ -6,7 +6,7 @@ Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, t
  <img src="CitizenCosmosLogo.jpg" width="320" />
 </div>
 
-| **Listen via [Anchor](https://anchor.fm/citizencosmos)** | **Sign to [RSS feed](https://anchor.fm/s/1e2d6720/podcast/rss)**  | **Join our [Telegram channel](https://t.me/citizen_cosmos)** | **Follow us on [Twitter](https://twitter.com/cosmos_voice)** | **Find us on [web3 and IPFS with cyber.page](https://cyber.page/search/citizen%20cosmos)** |
+| **Listen via [Anchor](https://anchor.fm/citizencosmos)** | **Sign to [RSS feed](https://anchor.fm/s/1e2d6720/podcast/rss)**  | **Join our [Telegram channel](https://t.me/citizen_cosmos)** | **Follow us on [Twitter](https://twitter.com/cosmos_voice)** | **Find us on [web3 with IPFS & cyber.page](https://cyber.page/search/citizen%20cosmos)** |
 
 <hr>
 
