@@ -133,4 +133,4 @@ __Episodes list:__
 
   </details>
   
-11: Harriet Cao, Iris Network & Hub: [Anchor link](https://anchor.fm/citizencosmos/episodes/Harriet-Cao--IRIS-Network--Hub-egmcah) | [Web3 link](https://cyber.page/ipfs/QmPuNmR68Yxi84bpxp18MzRTtEJJQxi5gTdJJBxKhaeuPi)
+11: Harriet Cao, Iris Network (IRISnet) & Hub: [Anchor link](https://anchor.fm/citizencosmos/episodes/Harriet-Cao--IRIS-Network--Hub-egmcah) | [Web3 link](https://cyber.page/ipfs/QmPuNmR68Yxi84bpxp18MzRTtEJJQxi5gTdJJBxKhaeuPi)
