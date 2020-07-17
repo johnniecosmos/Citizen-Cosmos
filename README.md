@@ -134,3 +134,36 @@ __Episodes list:__
   </details>
   
 11: Harriet Cao, Iris Network (IRISnet) & Hub: [Anchor link](https://anchor.fm/citizencosmos/episodes/Harriet-Cao--IRIS-Network--Hub-egmcah) | [Web3 link](https://cyber.page/ipfs/QmPuNmR68Yxi84bpxp18MzRTtEJJQxi5gTdJJBxKhaeuPi)
+
+<details>
+<summary>Episode Timeline</summary>
+
+    1.27: The history behind IRISnet
+
+    4.16: Harriet's personal story 
+    
+    6.20: THe differences between corporate and decentralized working environments
+    
+    10.06: IRISnet as a non-profit organization 
+    
+    11.58: IRIShub
+    
+    15.50: Main differences between hubs
+    
+    19.06: AI
+    
+    22.26: IRIS Service Consortium Hub
+    
+    26.22: Use cases for IRIS-SDK
+    
+    29.58: The community pull of IRIShub
+    
+    32.26: Specifics of teh Pacific Asia region
+    
+    34.52: Government support of the blockchain industry
+    
+    36.51: A bit more of the personal story
+    
+    40.56: Inspiring blockchain projects
+
+  </details>
