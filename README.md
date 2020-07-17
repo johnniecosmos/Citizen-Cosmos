@@ -22,7 +22,7 @@ __Episode list:__
 
 ###### 2: Jack Zampolin, Game of Zones & IBC: [Anchor link](https://anchor.fm/citizencosmos/episodes/Jack-Zampolin--Game-of-Zones--IBC-ed5jul) | [Web3 link](https://ipfs.io/ipfs/QmefwgCNkRJ7qNG2aNPYDhfiN3QSm3w7auUoEYqNK6qLrM)
 
-##### 3: Kwun Yeung, Forbole & Desmos: [Anchor link](https://anchor.fm/citizencosmos/episodes/Kwun-Yeung--Forbole--Desmos-edesno) | [Web3 link](https://ipfs.io/ipfs/QmXsUHhLCDo9aXqVMbGpVicoYw7Z98DEaC4525Kp9bG96v)
+###### 3: Kwun Yeung, Forbole & Desmos: [Anchor link](https://anchor.fm/citizencosmos/episodes/Kwun-Yeung--Forbole--Desmos-edesno) | [Web3 link](https://ipfs.io/ipfs/QmXsUHhLCDo9aXqVMbGpVicoYw7Z98DEaC4525Kp9bG96v)
 
 ###### 4: Sunny Aggarwal, Tendermint & Sikka: [Anchor link](https://anchor.fm/citizencosmos/episodes/Sunny-Aggarwal--Tendermint--Sikka-edpmcj) | [Web3 link](https://ipfs.io/ipfs/QmPpZNj7BnxZX9DKaaXrFv12FTEg4xcTARhjJNmapLQwuV)
 
