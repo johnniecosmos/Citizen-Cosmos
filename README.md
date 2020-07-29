@@ -167,3 +167,5 @@ __Episode list:__
     40.56: Inspiring blockchain projects
 
   </details>
+  
+###### 12: Peng Zhong, Tendermint, management & decentralization: [Anchor link](https://anchor.fm/citizencosmos/episodes/Peng-Zhong--Tendermint--management--decentralization-ehd4i0/a-a2qkqck) | [Web3 link](https://cyber.page/search/peng%20zhong)
