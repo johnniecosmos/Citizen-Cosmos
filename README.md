@@ -169,3 +169,48 @@ __Episode list:__
   </details>
   
 ###### 12: Peng Zhong, Tendermint, management & decentralization: [Anchor link](https://anchor.fm/citizencosmos/episodes/Peng-Zhong--Tendermint--management--decentralization-ehd4i0/a-a2qkqck) | [Web3 link](https://cyber.page/search/peng%20zhong)
+
+<details>
+<summary>Episode Timeline</summary>
+
+    1.44: Becoming a CEO 
+    
+    3.50: Personal mission as a CEO 
+    
+    4.46: Photon
+    
+    7.20: A new secret tool
+    
+    8.40: Web developers and their role in web3 
+
+    11.44: The most difficult part in a job of a CEO 
+
+    15.34: Lifehacks 
+    
+    17.16: Personal story in the blockchain world 
+    
+    23.40: Decentralized twitter 
+    
+    26.56: UI and off-chain connections
+    
+    30.20: UI of the SDK 
+    
+    32.26: What will the future of development might look like 
+    
+    33.52: GPT-3
+    
+    35.48: Lunie 
+    
+    40.40: Interaction design 
+    
+    42.26: Hiring process and the perfect match
+    
+    44.24: Board of Directors
+    
+    46.24: Community of  a decentralized project
+    
+    50.10: Prism break 
+    
+    52.50: Exciting blockchain projects 
+
+  </details>
