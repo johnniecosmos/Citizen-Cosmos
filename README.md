@@ -214,3 +214,5 @@ __Episode list:__
     52.50: Exciting blockchain projects 
 
   </details>
+  
+###### 13: Josh Lee aka Dogemos: [Anchor link](https://anchor.fm/citizencosmos/episodes/Josh-Lee-aka-Dogemos-eicint) | [Web3 link](https://cyber.page/ipfs/QmNsPhc53DyviuQkYDca8tT9TANDUaXVG5fs9SGzedW4Xj)
