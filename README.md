@@ -18,11 +18,11 @@ Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, t
 
 __Episode list:__
 
-###### 1: Gavin from Figment Networks, Governance: [Anchor link](https://anchor.fm/citizencosmos/episodes/Gavin-from-Figment-Networks--Governance-ed5jm8) | [Web3 link](https://ipfs.io/ipfs/QmaKBaBnfqUkK789dtk2UWZzfTdti7DRYuapQz8CRWJFZh)
+###### 1: Gavin from Figment Networks, Governance: [Anchor link](https://anchor.fm/citizencosmos/episodes/Gavin-from-Figment-Networks--Governance-ed5jm8) | [BitSong link](https://demo.bitsong.io/track/158) | [Web3 link](https://ipfs.io/ipfs/QmaKBaBnfqUkK789dtk2UWZzfTdti7DRYuapQz8CRWJFZh)
 
-###### 2: Jack Zampolin, Game of Zones & IBC: [Anchor link](https://anchor.fm/citizencosmos/episodes/Jack-Zampolin--Game-of-Zones--IBC-ed5jul) | [Web3 link](https://ipfs.io/ipfs/QmefwgCNkRJ7qNG2aNPYDhfiN3QSm3w7auUoEYqNK6qLrM)
+###### 2: Jack Zampolin, Game of Zones & IBC: [Anchor link](https://anchor.fm/citizencosmos/episodes/Jack-Zampolin--Game-of-Zones--IBC-ed5jul) | [BitSong link](https://demo.bitsong.io/track/159) | [Web3 link](https://ipfs.io/ipfs/QmefwgCNkRJ7qNG2aNPYDhfiN3QSm3w7auUoEYqNK6qLrM)
 
-###### 3: Kwun Yeung, Forbole & Desmos: [Anchor link](https://anchor.fm/citizencosmos/episodes/Kwun-Yeung--Forbole--Desmos-edesno) | [Web3 link](https://ipfs.io/ipfs/QmXsUHhLCDo9aXqVMbGpVicoYw7Z98DEaC4525Kp9bG96v)
+###### 3: Kwun Yeung, Forbole & Desmos: [Anchor link](https://anchor.fm/citizencosmos/episodes/Kwun-Yeung--Forbole--Desmos-edesno) | [BitSong link](https://demo.bitsong.io/track/160) | [Web3 link](https://ipfs.io/ipfs/QmXsUHhLCDo9aXqVMbGpVicoYw7Z98DEaC4525Kp9bG96v)
 
 ###### 4: Sunny Aggarwal, Tendermint & Sikka: [Anchor link](https://anchor.fm/citizencosmos/episodes/Sunny-Aggarwal--Tendermint--Sikka-edpmcj) | [Web3 link](https://ipfs.io/ipfs/QmPpZNj7BnxZX9DKaaXrFv12FTEg4xcTARhjJNmapLQwuV)
 
