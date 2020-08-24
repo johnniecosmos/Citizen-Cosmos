@@ -2,6 +2,8 @@
 
 Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, their tech ambitions and personalities. Feel free to like and share any episodes or just leave your comments, feedback and wishes! **[GH pages](https://citizen-cosmos.github.io/Citizen-Cosmos/)**
 
+A reciever of an [ICF Q2-2020 Grant](https://medium.com/@interchain_io/icf-q2-2020-funding-recipients-e5cbb326c23c)!
+
 <div align="center">
  <img src="CitizenCosmosLogo.jpg" width="320" />
 </div>
