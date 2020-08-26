@@ -218,3 +218,40 @@ __Episode list:__
   </details>
   
 ###### 13: Josh Lee aka Dogemos: [Anchor link](https://anchor.fm/citizencosmos/episodes/Josh-Lee-aka-Dogemos-eicint) | [Web3 link](https://cyber.page/ipfs/QmNsPhc53DyviuQkYDca8tT9TANDUaXVG5fs9SGzedW4Xj)
+
+<details>
+<summary>Episode Timeline</summary>
+
+    1.30: Role on the Tendermint team 
+    
+    3.02: Dogemos as a name  
+    
+    6.07: The story behind Tendermint
+    
+    9.02: The beauty of the technology behind Tendermint
+
+    11.33: The best ways to start learning about Tendermint
+
+    15.14: Work with the community 
+
+    19.52: Tools to work with the community 
+
+    26.56: Working with a technical team 
+
+    29.04: Tricky Product Market Fit
+
+    32.24: Keplr 
+
+    37.10: Interoperability as a state of mind
+
+    41.08: C-level specialists in decentralized projects and legal entities 
+
+    42.26: Decentralization in a future World 
+
+    44.44: Privacy in decentralized projects
+
+    46.02: How to deal with a number of different opinions 
+
+    49.48: Exciting projects in the blockchain space 
+
+  </details>
