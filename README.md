@@ -10,7 +10,7 @@ A receiver of an [ICF Q2-2020 Grant](https://medium.com/@interchain_io/icf-q2-20
 
 <div align="center">
 
-| **Listen via [Anchor](https://anchor.fm/citizencosmos)** | **Sign to [RSS feed](https://anchor.fm/s/1e2d6720/podcast/rss)**  | **Join our [Telegram channel](https://t.me/citizen_cosmos)** |
+| **Visit our [Website](https://www.citizencosmos.space/)** | **Sign to [RSS feed](https://anchor.fm/s/1e2d6720/podcast/rss)**  | **Join our [Telegram channel](https://t.me/citizen_cosmos)** |
 
 | **Follow us on [Twitter](https://twitter.com/cosmos_voice)** | **Find us on web-3 [with IPFS & cyber.page](https://cyber.page/search/citizen%20cosmos)** |
 
