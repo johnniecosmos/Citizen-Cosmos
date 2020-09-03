@@ -2,7 +2,9 @@
 
 Citizen Cosmos: a podcast about the masterminds behind the Cosmos blockchain ecosystem, their tech ambitions and personalities. Feel free to like and share any episodes or just leave your comments, feedback and wishes!
 
-A receiver of an [ICF Q2-2020 Grant](https://medium.com/@interchain_io/icf-q2-2020-funding-recipients-e5cbb326c23c)!
+A receiver of an [ICF Q2-2020 Grant](https://medium.com/@interchain_io/icf-q2-2020-funding-recipients-e5cbb326c23c)! 
+
+If you like what we do and want to support our work, please check out our [Gitcoin Grant Page](https://gitcoin.co/grants/1113/citizen-cosmos-podcast).
 
 <div align="center">
  <img src="CitizenCosmosLogo.jpg" width="320" />
