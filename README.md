@@ -257,3 +257,5 @@ __Episode list:__
     49.48: Exciting projects in the blockchain space 
 
   </details>
+  
+###### 14: Billy Rennekamp Tendermint vs ICF: [Anchor link](https://anchor.fm/citizencosmos/episodes/Billy-Rennekamp-Tendermint-vs-ICF-ejbqcq) | [Web3 link](https://cyber.page/ipfs/QmRpzCBGwLNSRMonbBV1rHk9mjc4UEaHgEThzFMLcU2wYP)
