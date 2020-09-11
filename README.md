@@ -1,6 +1,6 @@
 # Citizen Cosmos Podcast
 
-Citizen Cosmos: a podcast about the masterminds behind the Cosmos blockchain ecosystem, their tech ambitions and personalities. Feel free to like and share any episodes or just leave your comments, feedback and wishes!
+Citizen Cosmos: a podcast that discovers the masterminds behind the Cosmos blockchain ecosystem, web3 builders, their technological ambitions and personalities. Feel free to like and share any episodes or just leave your comments, feedback and wishes!
 
 A receiver of an [ICF Q2-2020 Grant](https://medium.com/@interchain_io/icf-q2-2020-funding-recipients-e5cbb326c23c)! 
 
@@ -12,7 +12,7 @@ If you like what we do and want to support our work, please check out our [Gitco
 
 <div align="center">
 
-| **Visit our [Website](https://www.citizencosmos.space/)** | **Sign to [RSS feed](https://anchor.fm/s/1e2d6720/podcast/rss)**  | **Join our [Telegram channel](https://t.me/citizen_cosmos)** |
+| **Visit our [Website](https://www.citizencosmos.space/)** | **Sign to [RSS feed](https://www.citizencosmos.space/rss)**  | **Join our [Telegram channel](https://t.me/citizen_cosmos)** |
 
 | **Follow us on [Twitter](https://twitter.com/cosmos_voice)** | **Find us on web-3 [with IPFS & cyber.page](https://cyber.page/search/citizen%20cosmos)** |
 
