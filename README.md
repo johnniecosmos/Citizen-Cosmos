@@ -259,3 +259,36 @@ __Episode list:__
   </details>
   
 ###### 14: Billy Rennekamp Tendermint vs ICF: [Anchor link](https://anchor.fm/citizencosmos/episodes/Billy-Rennekamp-Tendermint-vs-ICF-ejbqcq) | [Web3 link](https://cyber.page/ipfs/QmRpzCBGwLNSRMonbBV1rHk9mjc4UEaHgEThzFMLcU2wYP)
+
+<details>
+<summary>Episode Timeline</summary>
+
+    1.54: what is the ICF
+    
+    7.08: Publicity
+    
+    10.40: Communication within a project 
+    
+    13.32: Personal blockchain story 
+    
+    21.47: DeFi: the new economic reality or a new scam
+    
+    23.54: The beauty of blockchains and what attracts people 
+    
+    31.20: Cryptography 
+    
+    33.36: Centralized and decentralized decision making process in ICF 
+    
+    40.06: Fiat and Crypto currencies in ICF operations 
+    
+    41.34: Clovers network and integration with Cosmos 
+    
+    45.52: Exciting blockchain technologies 
+    
+    49.30: Cosmos Citizenship 
+    
+    53.52: Billy’s twitter account 
+    
+    56.11: Interesting blockchain projects
+
+  </details>
