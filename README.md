@@ -292,3 +292,45 @@ __Episode list:__
     56.11: Interesting blockchain projects
 
   </details>
+  
+###### 15: Tor Bair, privacy and secrets: [Website link](https://www.citizencosmos.space/secret-network) | [Web3 link](https://cyber.page/ipfs/QmRtzQ1z3rJwe37PxNiJg8PRM8YervsjQfqXamPrrWqsQR)
+
+<details>
+<summary>Episode Timeline</summary>
+
+    1.20: The definition of privacy
+    
+    3.30: Incentives to protect privacy
+    
+    8.07: A personal rtake on privacy
+    
+    13.15: How to combine poker and privacy?
+    
+    14.10: Privacy projects and the foundations that back them
+    
+    18.50: Privacy gurus
+    
+    21.15: Privacy preserving smart contracts
+    
+    26.48: Intel SGX
+    
+    30.20: How Intel can affect privacy
+    
+    33.08: Secret Nodes
+    
+    35.30: Ways to talk to a community
+    
+    37.45: SCRT token
+    
+    40.28: Monetization behind a foundation
+    
+    42.10: Is MIT education helpful or not?
+    
+    44.44: The story of the Decentralize this podcast
+    
+    47.02: Secrets to share
+    
+    48.17: Exciting projects
+
+  </details>
+
