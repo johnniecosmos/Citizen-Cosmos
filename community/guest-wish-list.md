@@ -8,3 +8,4 @@ This list will be filled either manually from feedback recieved from chats or fr
 | Binance| Invited | TG |
 | Zaki | Invited | TG |
 | Tess | No answer | TG |
+| IOV | Recorded | TG |
