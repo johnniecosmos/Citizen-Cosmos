@@ -5,13 +5,13 @@
 - Open schedule, not attached to working hours
 - Flat reward in ATOM + reward attached to bonuses and metrics in ATOM
 
-* Threats*
+*Treats*
 - Preferably bi-lingual (RU/EN - fluent in both)
 - High quality written English
 - Loves communicating
 - Capable of using GH UI, basic knowledge in blockchain, blockchain enthusiast, good understanding of Cosmos
 
-* Responsibilities*
+*Responsibilities*
 - Create educational materials related to the Cosmos ecosystem
 - Create user guides for the Citizen Cosmos validator
 - Maintain public profiles of Citizen Cosmos brand (TG channel, Twitter account)
