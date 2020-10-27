@@ -335,3 +335,40 @@ __Episode list:__
   </details>
 
 ###### 16: Chris Remus: Chaiflow and Staking: [Website link](https://www.citizencosmos.space/staking-defense) | [Web3 link]()
+
+<details>
+<summary>Episode Timeline</summary>
+
+     0.45: The Twitter connection  
+
+     1.45: Chainflow's validator 
+
+     5.35: Chainflow's focus  
+
+     8.37: Why Cosmos 
+
+     10.44: How to attract smaller, independent validators?
+
+     15.03: Cosmos-Hub validators 
+
+     18.19: Enforcing rules onto the blockchain 
+
+     22.19: The monetary cost of freedom 
+
+     25.49: The staking defence forum 
+
+     28.49: Project and product management 
+
+     32.56: The developer mindset for product management
+
+     35.24: The product and its shape within the blockchain industry 
+
+     38.29: Marketing and user traction issues  
+
+     42.21: The Staking Defence Newsletter 
+
+     44.49: Picking mushrooms 
+
+     46.25: Exciting blockchain projects 
+
+  </details>
