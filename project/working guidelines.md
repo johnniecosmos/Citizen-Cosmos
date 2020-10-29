@@ -3,29 +3,30 @@
 ### Community advocate
 *General*
 - Open schedule, not attached to working hours
-- Flat reward in ATOM + reward attached to bonuses and metrics in ATOM
+- Flat reward in ATOM or DAI + reward attached to bonuses and metrics in ATOM or DAI
 
 *Treats*
-- Preferably bi-lingual (RU/EN - fluent in both)
+- Preferably bi-lingual (RU/EN, fluent in both)
 - High quality written English
-- Loves communicating
+- Loves communicating and writing
+- Capable of managing their own tasks (we do not expcet the person to be attached to CC solely)
 - Capable of using GH UI, basic knowledge in blockchain, blockchain enthusiast, good understanding of Cosmos
 
 *Responsibilities*
 - Create educational materials related to the Cosmos ecosystem
 - Create user guides for the Citizen Cosmos validator
 - Maintain public profiles of Citizen Cosmos brand (TG channel, Twitter account)
-- Advocate the Citizen Cosmos brand in public SN: twitter, telegram, Reddit
-- Responsible for inviting podcast guests
+- Advocate the Citizen Cosmos brand in public SN: Twitter, Telegram, Reddit
+- Responsible for inviting podcast guests 
 - Help market the Citizen Cosmos podcast in the blockchain space and to broader related communities
-- Track and publish social metrics
+- Track and publish social metrics upon request
 - Gather, report and work with feedback and community
 - Help with future community initiatives
 
 ### Cosmos_rus advocate
-- manage cosmos_rus
-- manage Moscow meetup group
-- help organize and advocate online events
-- manage and advocate TG cosmos news in ru channel
+- Manage cosmos_rus
+- Manage Moscow meetup group
+- Help organize and advocate online events
+- Manage and advocate TG cosmos news in ru channel
 - Advocate Citizen Cosmos validator in RU Cosmos and wider delegator communities
 
