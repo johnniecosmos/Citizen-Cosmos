@@ -36,3 +36,5 @@ If you are interested in this position please contact us via [Telegram](t.me/cit
 - Manage and advocate TG cosmos news in ru channel
 - Advocate Citizen Cosmos validator in RU Cosmos and wider delegator communities
 
+Not hiring `2` yet ^^^
+
