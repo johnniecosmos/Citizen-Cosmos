@@ -1,6 +1,6 @@
 ## Working guidelines
 
-### Community advocate
+### 1. Community advocate
 *General*
 - Open schedule, not attached to working hours
 - Flat reward in ATOM or DAI + reward attached to bonuses and metrics in ATOM or DAI
@@ -23,7 +23,13 @@
 - Gather, report and work with feedback and community
 - Help with future community initiatives
 
-### Cosmos_rus advocate
+Please bear in mind that the current reward for this position is very modest. Hence, it is best suited for someone who is already active in the community and has some spare time on their hands.
+
+If you are interested in this position please contact us via [Telegram](t.me/citizencosmos)
+
+----------------------------------
+
+### 2. Cosmos_rus advocate
 - Manage cosmos_rus
 - Manage Moscow meetup group
 - Help organize and advocate online events
