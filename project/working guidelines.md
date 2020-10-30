@@ -23,9 +23,9 @@
 - Gather, report and work with feedback and community
 - Help with future community initiatives
 
-Please bear in mind that the current reward for this position is very modest. Hence, it is best suited for someone who is already active in the community and has some spare time on their hands.
+*Please bear in mind that the current reward for this position is very modest. Hence, it is best suited for someone who is already active in the community and has some spare time on their hands.
 
-If you are interested in this position please contact us via [Telegram](t.me/citizencosmos)
+If you are interested in this position please contact us via **[Telegram](t.me/citizencosmos)**
 
 ----------------------------------
 
