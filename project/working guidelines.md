@@ -3,7 +3,7 @@
 ### 1. Community advocate
 *General*
 - Open schedule, not attached to working hours
-- Flat reward in ATOM or DAI + reward attached to bonuses and metrics in ATOM or DAI
+- Flat reward in ATOM or DAI + future reward attached to metrics in ATOM or DAI
 
 *Treats*
 - Preferably bi-lingual (RU/EN, fluent in both)
