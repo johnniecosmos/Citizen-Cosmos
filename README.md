@@ -4,7 +4,7 @@ Citizen Cosmos: a web3 brand and a podcast that discovers the masterminds behind
 
 A receiver of an [ICF Q2-2020 Grant](https://medium.com/@interchain_io/icf-q2-2020-funding-recipients-e5cbb326c23c)! 
 
-If you like what we do and want to support our work, then [stake with the Citizen Cosmos validator](https://www.citizencosmos.space/staking) and check out our [Gitcoin Grant Page](https://gitcoin.co/grants/1113/citizen-cosmos-podcast) 
+If you like what we do and want to support our work: [stake with the Citizen Cosmos validator](https://www.citizencosmos.space/staking) and check out our [Gitcoin Grant Page](https://gitcoin.co/grants/1113/citizen-cosmos-podcast) 
 
 <div align="center">
  <img src="CitizenCosmosLogo.jpg" width="320" />
