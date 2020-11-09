@@ -373,7 +373,7 @@ __Episode list:__
 
   </details>
   
-###### 16: Althea: networking, mesh & blockchain: [Website link](https://www.citizencosmos.space/althea) | [Web3 link]()
+###### 17: Althea: networking, mesh & blockchain: [Website link](https://www.citizencosmos.space/althea) | [Web3 link]()
 
 <details>
 <summary>Episode Timeline</summary>
