@@ -378,5 +378,58 @@ __Episode list:__
 <details>
 <summary>Episode Timeline</summary>
  
- 
+    1.12: The birth of Althea
+    
+    4.30: A price-aware routing protocol
+    
+    5.28: Mesh networks
+    
+    7.42: The nowadays technological base for the internet
+    
+    11.38: Bandwidth in mesh networks
+    
+    13.50: Hardware and software for mesh networks
+    
+    15.30: Open source or third party solutions
+    
+    19.09: Scaling issues
+    
+    21.10: Background
+    
+    22.30: The role of a CEO and its challenges
+    
+    24.30: Product design
+    
+    26.18: An example of using a mesh network
+    
+    26.53: A typical user
+    
+    27.30: How users can get involved in Altea network
+    
+    30.15: The mesh network market
+    
+    32.02: Economical model behind Althea network
+    
+    34.58: Peggy bridge between Cosmos and Ethereum
+    
+    36.50: Differences between bridges
+    
+    37.28: Other side of the project: xDai
+    
+    39.19: Grant from Interchain foundation
+    
+    39.42: Economical goal
+    
+    40.42: Prehistory
+    
+    42.22: Internet connection dashboard
+    
+    43.26: Privacy in bandwidth sharing
+    
+    43.52: ISP monetization of data
+    
+    45.05: Chaos Communication Congress
+    
+    46.30: Exciting blockchain projects
+
 </details>
