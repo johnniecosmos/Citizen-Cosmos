@@ -1,6 +1,6 @@
 # Citizen Cosmos
 
-Citizen Cosmos: a web3 brand and a podcast that discovers the masterminds behind the Cosmos blockchain ecosystem, web3 builders, their technological ambitions and personalities. Feel free to like and share any episodes or just leave your comments, feedback and wishes!
+Citizen Cosmos: Citizen Cosmos is a web3 brand and a podcast that aims to discover and promote the masterminds behind the Cosmos blockchain ecosystem, web3 builders, their technological ambitions and personalities. Feel free to like and share any episodes or just leave your comments, feedback and wishes!
 
 A receiver of an [ICF Q2-2020 Grant](https://medium.com/@interchain_io/icf-q2-2020-funding-recipients-e5cbb326c23c)! 
 
@@ -80,7 +80,7 @@ __Episode list:__
 
     10.32: The challenges of being a co-founder
 
-    15.56: The day before fundraising starts
+    15.56: The day before fundraising started
 
     17.44: The second donation round
 
