@@ -12,3 +12,4 @@ This list will be filled either manually from feedback recieved from chats or fr
 | Puzzle | Invited | Intenal |
 | Persistance | Invited | Intenal |
 | Iconomi | Invited | Intenal |
+| Kava | Invited? | ?     |
