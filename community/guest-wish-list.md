@@ -9,4 +9,6 @@ This list will be filled either manually from feedback recieved from chats or fr
 | Zaki | Invited | TG |
 | Tess | No answer | TG |
 | IOV | Recorded | TG |
-| Puzzle | Research | Intenal |
+| Puzzle | Invited | Intenal |
+| Persistance | Invited | Intenal |
+| Iconomi | Invited | Intenal |
