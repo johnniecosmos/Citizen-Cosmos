@@ -433,3 +433,5 @@ __Episode list:__
     46.30: Exciting blockchain projects
 
 </details>
+
+###### 18: Antoine Herzog, Starname & decentralized identity: [Website link](https://www.citizencosmos.space/starname) | [Web3 link]()
