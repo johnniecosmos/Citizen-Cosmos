@@ -13,3 +13,4 @@ This list will be filled either manually from feedback recieved from chats or fr
 | Persistance | Invited | Intenal |
 | Iconomi | Invited | Intenal |
 | Jae Kwon | Invited | TG |
+| Greg Osuri | Invited | TG |
