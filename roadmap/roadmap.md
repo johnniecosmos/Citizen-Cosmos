@@ -24,6 +24,8 @@ graph TD
     E --> F[Goal]
 ```
 
+------------------------------
+
 ### C.C. podcast
 
 The Citizen Cosmos podcast is its main source of communication and its main working tool. To achieve our goal 4 major tasks require completion:  
@@ -33,14 +35,14 @@ The Citizen Cosmos podcast is its main source of communication and its main work
 - [ ] [Shaping the ecosystem](#ecosystem-and-pr)
 - [ ] [Growth](#growth)
 
-##### Forming a vision
+#### Forming a vision
 
 Create the initial steps, required to shape the product:
 
 - [ ] [Create and publish a roadmap](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/28)
 - [ ] [Create a marketing plan for the podcast](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
 
-##### Administrative questions
+#### Administrative questions
 
 Sort out all issues relating to administrative things:
 
@@ -56,7 +58,7 @@ Sort out all issues relating to administrative things:
 - [ ] [Own website / app]()
 - [ ] [ICF grant]()
 
-##### Ecosystem and PR
+#### Ecosystem and PR
 
 These are vastly ongoin tasks that constantly require attention:
 
@@ -72,7 +74,7 @@ These are vastly ongoin tasks that constantly require attention:
 - [ ] [Semantics core]()
 - [ ] [Blog presence]()
 
-##### Growth
+#### Growth
 
 Future visionary plans that can help to shape the bigger picture. Should be taken with a pinch of salt:
 
@@ -86,6 +88,8 @@ Future visionary plans that can help to shape the bigger picture. Should be take
 - [ ] [IPFS cluster]()
 - [ ] [Host personification]()
 
+------------------------------
+
 ### C.C. Validator
 
 The Citizen Cosmos validator is its main source of income and one of its communication means. To achieve its goal 2 major tasks are outlined:
@@ -93,14 +97,14 @@ The Citizen Cosmos validator is its main source of income and one of its communi
 - [ ] [Administrive questions](#administrative-questions-1)
 - [ ] [Growth and ecosystem](#growth-and-ecosystem)
 
-##### Administrative questions
+#### Administrative questions
 - [ ] Devops
 - [ ] Threshold signing
 - [ ] Migration
 - [ ] Server payments & accountancy
 - [ ] Plan for liveliness in participating networks 
 
-##### Growth and ecosystem
+#### Growth and ecosystem
 - [ ] Website / App
 - [ ] Supporting network plan
 - [ ] Guides and network description
@@ -108,6 +112,8 @@ The Citizen Cosmos validator is its main source of income and one of its communi
 - [ ] Semantics core
 - [ ] CC Melon fund
 - [ ] Public comments to media
+
+------------------------------
 
 ### C.C. community initiatives
 
@@ -117,16 +123,16 @@ The Citizen Cosmos runs various public community iniatives to help communicate i
 - [ ] [Ongoing initiatives](#ongoing-iniatives)
 - [ ] [Public events](#public-events)
 
-##### Administrative questions
+#### Administrative questions
 - [ ] CC RU community advocate
 - [ ] Grant work
 - [ ] Technical team payments
 
-##### Ongoing iniatives 
+#### Ongoing iniatives 
 - [ ] TIC translations
 - [ ] SM work: Twitter, TG, forum
 - [ ] Public good repositories
 
-##### Public events
+#### Public events
 - [ ] Cosmos Moscow meetup work: community calls, cosmos po-russki
 - [ ] RU Hakaton
