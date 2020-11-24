@@ -13,9 +13,17 @@ Helping to discover web3 via the means of communication. Citizen Cosmos stated a
 
 ```mermaid
 graph TD
+    CC [Citizen Cosmos] --> Podcast
+    CC --> Validator
+    CC --> Public iniatives
+    Podcast --> Vision
+    Vision --> Growth
+    Growth --> Goal
+    Validator --> Goal
+    Ecosystem --> Goal
 ```
 
-## C.C. podcast
+### C.C. podcast
 
 The Citizen Cosmos podcast is its main source of communication and its main working tool. To achieve our goal 4 major tasks require completion:  
 
@@ -24,16 +32,16 @@ The Citizen Cosmos podcast is its main source of communication and its main work
 - [ ] [Shaping the ecosystem](#ecosystem-and-pr)
 - [ ] [Growth](#growth)
 
-### Forming a vision
+#### Forming a vision
 
 Create the initial steps, required to shape the product:
 
 - [ ] [Create and publish a roadmap](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/28)
 - [ ] [Create a marketing plan for the podcast](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
 
-### Administrative questions
+#### Administrative questions
 
-Sort out all issues relating to boring things:
+Sort out all issues relating to administrative things:
 
 - [ ] [CC community advocate](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/29)
 - [ ] [Branding]()
@@ -45,8 +53,9 @@ Sort out all issues relating to boring things:
 - [ ] [Hosting platform: payments]()
 - [ ] [Communication channels]()
 - [ ] [Own website / app]()
+- [ ] [ICF grant]()
 
-### Ecosystem and PR
+#### Ecosystem and PR
 
 These are vastly ongoin tasks that constantly require attention:
 
@@ -60,7 +69,7 @@ These are vastly ongoin tasks that constantly require attention:
 - [ ] [Cross podcast work](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/38)
 - [ ] [Guest lists](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/9)
 
-### Growth
+#### Growth
 
 Future visionary plans that can help to shape the bigger picture. Should be taken with a pinch of salt:
 
@@ -72,6 +81,8 @@ Future visionary plans that can help to shape the bigger picture. Should be take
 - [ ] [citizencosmos.eth](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
 - [ ] [re-link website using cyber.page]()
 
-## C.C. Validator
+### C.C. Validator
 
-## C.C. community initiatives
+The Citizen Cosmos validator is its main source of income and 
+
+### C.C. community initiatives
