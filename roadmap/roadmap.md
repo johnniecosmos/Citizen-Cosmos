@@ -11,16 +11,17 @@ Helping to discover web3 via the means of communication. Citizen Cosmos stated a
 
 ## Flowchart
 
+Created using [Mermaid](https://github.com/mermaid-js/mermaid). Visible with the help of [this extension](https://github.com/BackMarket/github-mermaid-extension) 
+
 ```mermaid
 graph TD
-    CC [Citizen Cosmos] --> Podcast
-    CC --> Validator
-    CC --> Public iniatives
-    Podcast --> Vision
-    Vision --> Growth
-    Growth --> Goal
-    Validator --> Goal
-    Ecosystem --> Goal
+    A[Citizen Cosmos] --> B[Podcast]
+    A --> C[Validator]
+    A --> D[Ecosystem]
+    B --> E[Growth]
+    C --> E
+    D --> E
+    E --> F[Goal]
 ```
 
 ### C.C. podcast
@@ -68,6 +69,8 @@ These are vastly ongoin tasks that constantly require attention:
 - [ ] [Mentioned blockchain projects list for educational purposes](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/21)
 - [ ] [Cross podcast work](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/38)
 - [ ] [Guest lists](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/9)
+- [ ] [Semantics core]()
+- [ ] [Blog presence]()
 
 #### Growth
 
@@ -80,9 +83,50 @@ Future visionary plans that can help to shape the bigger picture. Should be take
 - [ ] [Decentraland zone]()
 - [ ] [citizencosmos.eth](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
 - [ ] [re-link website using cyber.page]()
+- [ ] [IPFS cluster]()
+- [ ] [Host personification]()
 
 ### C.C. Validator
 
-The Citizen Cosmos validator is its main source of income and 
+The Citizen Cosmos validator is its main source of income and one of its communication means. To achieve its goal 2 major tasks are outlined:
+
+- [ ] [Administrive questions](#)
+- [ ] [Growth and ecosystem](#)
+
+#### Administrative questions
+- [ ] Devops
+- [ ] Threshold signing
+- [ ] Migration
+- [ ] Server payments & accountancy
+- [ ] Plan for liveliness in participating networks 
+
+#### Growth and ecosystem
+- [ ] Website / App
+- [ ] Supporting network plan
+- [ ] Guides and network description
+- [ ] Community advocacy presence 
+- [ ] Semantics core
+- [ ] CC Melon fund
+- [ ] Public comments to media
 
 ### C.C. community initiatives
+
+The Citizen Cosmos runs various public community iniatives to help communicate its end goal to users. To achieve it, 3 major tasks are outlined:
+
+- [ ] [Administrive questions](#)
+- [ ] [Ongoing initiatives](#)
+- [ ] [Public events](#)
+
+#### Administrative questions
+- [ ] CC RU community advocate
+- [ ] Grant work
+- [ ] Technical team payments
+
+#### Ongoing iniatives 
+- [ ] TIC translations
+- [ ] SM work: Twitter, TG, forum
+- [ ] Public good repositories
+
+#### Public events
+- [ ] Cosmos Moscow meetup work: community calls, cosmos po-russki
+- [ ] RU Hakaton
