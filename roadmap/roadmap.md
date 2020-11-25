@@ -28,7 +28,7 @@ Aims of each product:
 
 ## Flowchart
 
-Created using [Mermaid](https://github.com/mermaid-js/mermaid). Visible with the help of [this extension](https://github.com/BackMarket/github-mermaid-extension) 
+Created using [Mermaid](https://github.com/mermaid-js/mermaid). Visible with the help of [this extension](https://github.com/BackMarket/github-mermaid-extension) (just add it to your browser via the add-ons manager and turn it on). 
 
 ```mermaid
 graph TD
