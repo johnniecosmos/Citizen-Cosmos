@@ -14,3 +14,4 @@ This list will be filled either manually from feedback recieved from chats or fr
 | Iconomi | Invited | Intenal |
 | Jae Kwon | Invited | TG |
 | Greg Osuri | Invited | TG |
+| Sentinel | Contacted | TG |
