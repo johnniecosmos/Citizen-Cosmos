@@ -56,18 +56,18 @@ The Citizen Cosmos podcast is its main source of communication and its main work
 
 #### Forming a vision
 
-Create the initial steps, required to shape the product:
+Create the initial steps, required to shape the brand:
 
 - [ ] [Create and publish a roadmap](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/28)
 - [ ] [Create a marketing plan for the podcast](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
 
 #### Administrative questions
 
-Sort out all issues relating to administrative things:
+Questions relating to administrative tasks:
 
 - [ ] [CC community advocate](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/29)
-- [ ] [Branding]()
-- [ ] [Accountancy]()
+- [ ] [Branding](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/46)
+- [x] [Accountancy](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/47)
 - [ ] [Missing equipment]()
 - [ ] [GH documentation order]()
 - [ ] [Editing: payments & work flow]()
