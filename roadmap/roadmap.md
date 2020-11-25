@@ -1,8 +1,25 @@
 # Citizen Cosmos: brand roadmap
 
-## Goal
+## Mission
 
-Helping to discover web3 via the means of communication. Citizen Cosmos stated as [a podcast](https://www.citizencosmos.space/), helping the curious to discover the Cosmos ecosystem via personal stories of web3 builders, their ambitions to turn code into reality. Citizen Cosmos grew into a brand, helping with the formation of community and the ecosystem by securing and supporting various ecosystem networks as a validator, and by running such initiatives, as the organization of local meetups, social media management, translations, etc. Our aim is to make web3 an everyday instrument in people life, by using it, becoming a part of it and helping others to journey with us.
+Helping to discover web3 via the means of communication. Citizen Cosmos started as [a podcast](https://www.citizencosmos.space/), helping the curious to discover the Cosmos ecosystem via personal stories of web3 builders and their ambitions to turn code into reality. Citizen Cosmos grew into a brand, helping to shape the community and the ecosystem by securing and supporting various ecosystem networks as a validator, and by running such initiatives as the organization of local meetups, social media management, translations, etc.
+
+## Aim
+
+Our aim is to make web3 an everyday instrument in people life, by using it, becoming a part of it and helping others to journey with us. The big question we want to answer, by showcasing our own example is:
+
+`What is web3 good for? Why do I need to use it? How can I take advantage of these tools? Can I earn while I do this? Why do I need to care about this?`
+
+We believe that the best possible way to answer these questions is by providing the necessary information and the tools. By utilizing and using them in our every day lives. Hence, our aim is trying to prove to that web3, blockchain and the hustler economy is a means that not only work and already function, but anyone can use them and build their own working business around it. Moreover, our aim is to do this with the help of what was referred to, by Satoshi Nakamoto as `supporting the longest chain`, i.e. working for the public good and not against it. Blockchain is communication. Let's communicate!
+
+## Architecture
+
+The current architecture of Citizen Cosmos, often abbreviated to `C.C.` or `CC` is outlined in the [flowchart](#flowchart) below. In a gist. The brand unifies the Citizen Cosmos podcast, the Citizen Cosmos validator and the public community work Citizen Cosmos does, under a different project, cosmos_rus.
+
+Aims of each product:
+- Citizen Cosmos podcast: allows people to get familiar with web3 via Cosmos and the personal stories of its builders. From here, each user can find a 'role model' to connect with or simply use it as an educational and informative resource to ease his own journey into the depth of web3
+- Citizen Cosmos validator: is the main source of income for the brand. The idea goes beyond that, to show that web3 can be used, provide the tools for it and allow people to earn a passive income using these tools. In the future a lot of the technological initiatives that C.C. does will be build upon this part of the project
+- Cosmos_rus: the butter to the bread and also another way for C.C. to share information about web3. This includes the [Cosmos Moscow meetup group](https://www.meetup.com/Cosmos-Moscow), along with the meetups and community calls that it does, and the various SM channels that we manage. Just like a pub need to have music to attract more guests, our brand utilizes this separate project to help attract more users and interest towards C.C. It also serves as a possible means of income for C.C. from possible community and / or ICF grants   
 
 ## Tools
 
