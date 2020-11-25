@@ -4,13 +4,15 @@
 
 Helping to discover web3 via the means of communication. Citizen Cosmos started as [a podcast](https://www.citizencosmos.space/), helping the curious to discover the Cosmos ecosystem via personal stories of web3 builders and their ambitions to turn code into reality. Citizen Cosmos grew into a brand, helping to shape the community and the ecosystem by securing and supporting various ecosystem networks as a validator, and by running such initiatives as the organization of local meetups, social media management, translations, etc.
 
+Our mission is to make the world decentralized and to prove that communication is the key, along with the tools it provides us and by learning to use these tools together. Whether by shaping our organization as a web3, open-source entity or by showcasing how to use web3 tools to make life easier from wherever you are in the world.
+
 ## Aim
 
 Our aim is to make web3 an everyday instrument in people life, by using it, becoming a part of it and helping others to journey with us. The big question we want to answer, by showcasing our own example is:
 
 `What is web3 good for? Why do I need to use it? How can I take advantage of these tools? Can I earn while I do this? Why do I need to care about this?`
 
-We believe that the best possible way to answer these questions is by providing the necessary information and the tools. By utilizing and using them in our every day lives. Hence, our aim is trying to prove to that web3, blockchain and the hustler economy is a means that not only work and already function, but anyone can use them and build their own working business around it. Moreover, our aim is to do this with the help of what was referred to, by Satoshi Nakamoto as `supporting the longest chain`, i.e. working for the public good and not against it. Blockchain is communication. Let's communicate!
+We believe that the best possible way to answer these questions is by providing the necessary information and the tools. By utilizing and using them in our every day lives. Hence, our aim is trying to prove that web3, blockchain and the hustler economy is a means that not only work and already function, but anyone can use them and build their own working business around it. Moreover, our aim is to do this with the help of what was referred to, by Satoshi Nakamoto as `supporting the longest chain`, i.e. working for the public good and not against it. Blockchain is communication. Let's communicate!
 
 ## Architecture
 
