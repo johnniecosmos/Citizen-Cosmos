@@ -19,7 +19,7 @@ This list contains all the mentioned projects on the podcast, along with a small
 - [Pylon Validation Services](https://pylonvalidator.com/): Pylon Validation Services operates a secure validator node on the Cosmos Network.
 - [Game of Zones](https://goz.cosmosnetwork.dev/): A series of adversarial testnet challenges designed to prepare the Cosmos ecosystem for the upcoming launch of the IBC module that ended on June 5, 2020.
 - [IBC (Inter Blockchain Communication Protocol)](https://cosmos.network/ibc): Connecting blockchains is at the heart of interoperability.
-- [Cosmos SDK](https://cosmos.network/sdk): The world's most used framework for building blockchains
+- [Cosmos SDK](https://cosmos.network/sdk): The world's most used framework for building blockchains.
 - [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
 - [Github](https://github.com): GitHub is where over 50 million developers shape the future of software, together.
 - [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
@@ -41,4 +41,19 @@ This list contains all the mentioned projects on the podcast, along with a small
 
 
 ## Episode 3: [Kwun Yeung, Forbole & Desmos](https://www.citizencosmos.space/forbole-desmos)
-
+- [Forbole](https://www.forbole.com/): Founded in Hong Kong in 2017, Forbole is a pioneer in blockchain staking, technology and UX solution.
+- [Desmos](https://www.desmos.network/): Desmos is a Proof-of-Stake blockchain built on the Cosmos SDK and based on the Tendermint Consensus Engine and specifically created for social networking apps and projects.
+- [The Big Dipper Explorer](https://cosmos.bigdipper.live/): An explorer for the Cosmos ecosystem.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [Google](https://google.com)
+- [Facebook](https://facebook.com)
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Steem It](https://steemit.com/): An incentivized, blockchain-based, public content platform.
+- [Cosmos SDK](https://cosmos.network/sdk): The world's most used framework for building blockchains.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [IBC (Inter Blockchain Communication Protocol)](https://cosmos.network/ibc): Connecting blockchains is at the heart of interoperability.
+- [Cyber](https://cyber.page/): Cyber is a decentralized Google. It is an innovative search protocol that can provide provable answers to questions without an intermediary opinion.
+- [Akash Network](https://akash.network/): Akash DeCloud is a faster, better, and lower cost cloud built for DeFi, decentralized projects, and high growth companies, providing unprecedented scale, flexibility, and price performance.
+- [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
+- [Game of Zones](https://goz.cosmosnetwork.dev/): A series of adversarial testnet challenges designed to prepare the Cosmos ecosystem for the upcoming launch of the IBC module that ended on June 5, 2020.
+- [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
