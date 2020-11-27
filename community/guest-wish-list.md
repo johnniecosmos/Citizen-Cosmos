@@ -12,6 +12,6 @@ This list will be filled either manually from feedback recieved from chats or fr
 | Puzzle | Recorded | Internal |
 | Persistance | Recorded | Internal |
 | Iconomi | Invited | Internal |
-| Jae Kwon | Invited | TG |
+| Jae Kwon | Contacted | TG |
 | Greg Osuri | Invited | TG |
 | Sentinel | Contacted | TG |
