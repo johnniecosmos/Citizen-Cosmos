@@ -7,7 +7,7 @@ Citizen Cosmos: Citizen Cosmos is a web3 brand and a podcast that aims to discov
 If you like what we do and want to support our work: [stake with the Citizen Cosmos validator](https://www.citizencosmos.space/staking) and check out our [Gitcoin Grant Page](https://gitcoin.co/grants/1113/citizen-cosmos-podcast) 
 
 <div align="center">
- <img src="CitizenCosmosLogo.jpg" width="320" />
+ <img src="project/branding/CitizenCosmosLogo.jpg" width="320" />
 </div>
 
 <div align="center">
