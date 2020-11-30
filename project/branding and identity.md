@@ -10,3 +10,4 @@
 ### Others
 
 - [TG stickers]()
+- [Citizen Cosmos Mission and aim](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/roadmap/roadmap.md#mission)
