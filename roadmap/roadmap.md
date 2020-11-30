@@ -104,7 +104,7 @@ Future visionary plans that can help to shape the bigger picture. Should be take
 - [ ] [Decentraland zone]()
 - [ ] [citizencosmos.eth](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
 - [ ] [re-link website using cyber.page]()
-- [ ] [IPFS cluster]()
+- [ ] [IPFS cluster](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
 - [ ] [Host personification]()
 
 ------------------------------
@@ -121,10 +121,10 @@ The Citizen Cosmos validator is its main source of income and one of its communi
 - [ ] [Threshold signing](https://github.com/citizen-cosmos/Staking/issues/3)
 - [ ] [Migration]()
 - [ ] [Server payments & accountancy]()
-- [ ] [Plan for liveliness in participating networks]() 
 
 #### Growth and ecosystem
 - [ ] [Website / App]()
+- [ ] [Plan for liveliness in participating networks]() 
 - [ ] [Supporting network plan](https://github.com/citizen-cosmos/Staking/issues/10)
 - [ ] [Guides and network description](https://github.com/citizen-cosmos/Staking/issues/9)
 - [ ] [Community advocacy presence](https://github.com/citizen-cosmos/Staking/issues/9) 
@@ -147,10 +147,10 @@ The Citizen Cosmos runs various public community iniatives to help communicate i
 - [ ] [Grant work](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/20)
 
 #### Ongoing iniatives 
-- [ ] [TIC translations](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/52)
-- [ ] [SM work: Twitter, TG, forum](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/52)
+- [ ] [TIC translations](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
+- [ ] [SM work: Twitter, TG, forum](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
 - [ ] Public good repositories: [1](https://github.com/citizen-cosmos/Awesome-cosmos-social) & [2](https://github.com/citizen-cosmos/Awesome-cosmos-ru)
 
 #### Public events
-- [ ] [Cosmos Moscow meetup work: community calls, cosmos po-russki](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/52): Technical team payments
-- [ ] [RU Hakaton](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/52)
+- [ ] [Cosmos Moscow meetup work: community calls, cosmos po-russki](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56): Technical team payments
+- [ ] [RU Hakaton](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
