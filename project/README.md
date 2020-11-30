@@ -10,7 +10,7 @@
 
 2. Working with episodes
 - [Episode workflow](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/project/episode%20workflow.md)
-- [Community episode flow]()
+- [Community episodes](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/project/community%20episodes.md)
 
 3. Handy results
 - [Mentioned projects](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/community/A%20list%20of%20mentioned%20projects.md)
