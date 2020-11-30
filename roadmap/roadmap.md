@@ -99,7 +99,7 @@ Future visionary plans that can help to shape the bigger picture. Should be take
 
 - [ ] [Bitsong]()
 - [ ] [Citizen Dot]()
-- [ ] [DAO & NFT]()
+- [ ] [DAO]()
 - [ ] [Grants and community pools](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/20)
 - [ ] [Decentraland zone]()
 - [ ] [citizencosmos.eth](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
