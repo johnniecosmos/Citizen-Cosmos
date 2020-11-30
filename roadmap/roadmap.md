@@ -65,23 +65,23 @@ Create the initial steps, required to shape the brand:
 
 Questions relating to administrative tasks:
 
-- [ ] [CC community advocate](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/29)
-- [ ] [Branding](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/46)
+- [x] [CC community advocate](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/29)
+- [x] [Branding](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/46)
 - [x] [Accountancy](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/47)
 - [ ] [Missing equipment](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/48)
-- [ ] [GH documentation order]()
+- [x] [GH documentation order]()
 - [ ] [Editing: payments & work flow]()
 - [ ] [Guest sound guidelines](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/30)
 - [x] [Hosting platform: payments]()
 - [ ] [Communication channels](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
 - [ ] [Own website / app](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/49)
-- [ ] [ICF grant](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/20)
+- [ ] [Public grants](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/20)
 
 #### Ecosystem and PR
 
 These are vastly ongoin tasks that constantly require attention:
 
-- [ ] [Create working guidelines and flows](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
+- [x] [Create working guidelines and flows](https://github.com/citizen-cosmos/Citizen-Cosmos/tree/master/project)
 - [ ] [Transcripts for each episode](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/51)
 - [ ] [Video (picture) podcast version](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/50)
 - [ ] [TG stickers](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/33)
