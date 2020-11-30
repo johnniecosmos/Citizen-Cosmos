@@ -4,14 +4,14 @@ This list will be filled either manually from feedback recieved from chats or fr
 
 | Name of the guest/project | Status | Submitted via |
 |-----------|-------------|-------|
-| Althea |  Recorded | TG |
+| Althea |  Published | TG |
 | Binance| Invited | TG |
 | Zaki | Invited | TG |
 | Tess | No answer | TG |
-| IOV | Recorded | TG |
+| IOV | Published | TG |
 | Puzzle | Recorded | Internal |
 | Persistance | Recorded | Internal |
 | Iconomi | Invited | Internal |
-| Jae Kwon | Invited | TG |
-| Greg Osuri | Invited | TG |
-| Sentinel | Contacted | TG |
+| Jae Kwon | Invited | Internal |
+| Greg Osuri | Invited | Internal |
+| Sentinel | Invited | Internal |
