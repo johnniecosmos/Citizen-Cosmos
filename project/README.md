@@ -25,3 +25,7 @@
 - [Podcast marketing plan]()
 - [Cosmos_rus content plan and map](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/project/cosmos_rus%20map%20and%20plan.md)
 - [Brand roadmap](https://github.com/citizen-cosmos/Citizen-Cosmos/edit/master/roadmap/roadmap.md)
+
+### Branding
+
+- [Branding and identity](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/project/branding%20and%20identity.md)
