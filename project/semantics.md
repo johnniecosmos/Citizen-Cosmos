@@ -1,1 +1,9 @@
+# Citizen Cosmos semantics
 
+- citizen cosmos, citizn cosmos podcast, citizen cosmos show, citizen cosmos staking, citizen cosmos validator
+- podcast, show, podcast cryptocurrency, podcast about blockcahin, crypto podcast, podcast blockchain explained, podcast blockchain technology, blockchain podcast for beginners, podcast about cryptocurrency, podcast about crypto, blockchain podcast best, blockchain basics podcast, blockchain podcast download, podcast explaining cryptocurrency, podcast using blockchain, crypto podcast 2020, what is blockchain podcast, best cryptocurrency podcast, cryptocurrency podcast for beginners, 
+- cosmos, blockchain, web3, cryptocurrency, crypto, alts, atom, blockcahin technology, nodes, web3 business, web3 project, what is web3, how web3 works, how does web3 work, web3 help, how to enter web3
+- staking, validator, passive income, staking rewards, staking atom, staking crypto, staking atom wallet, how to stake cosmos, how to stake atom, cosmos validator rewards, validator rewards, delegator meaning, delegator rewards, staking crypto, passive income with crypto, staking operator, staking provider, staking crypto assets, staking crypto tokens, what is staking, cosmos crypto atom, cosmos crypto coin, cosmos blockchain ecosystem, blockchain 3.0 cosmos, staking coins 
+- decentralziation, dao, podcast dao, podcast grant,  what is blockchain, about blockchain technology, after blockchain, what blockchain should i invest in, should i learn blockchain, blockchain when to use, blockchain where to start, blockchain basics, blockchain benefit, 
+- community, communication, decentralziation in management, decentralized organization example, are cryptocurrency a good investment, cryptocurrency about to explode, cryptocurrency about information, cryptocurrency after covid,  
+- cyber blockchain, bitsong blockchain, cosmos blockchain, internet of blockchains
