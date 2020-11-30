@@ -21,5 +21,5 @@
 ### Ecosystem and PR
 
 - [Podcast marketing plan]()
-- [Cosmos_rus content plan]()
+- [Cosmos_rus content plan](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/project/cosmos_rus%20content%20plan.md)
 - [Brand roadmap](https://github.com/citizen-cosmos/Citizen-Cosmos/edit/master/roadmap/roadmap.md)
