@@ -106,6 +106,7 @@ Future visionary plans that can help to shape the bigger picture. Should be take
 - [ ] [re-link website using cyber.page]()
 - [ ] [IPFS cluster](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
 - [ ] [Host personification]()
+- [ ] [CC NFT game]()
 
 ------------------------------
 
