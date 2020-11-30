@@ -1,6 +1,8 @@
 # Podcast guest sound guidelines
 
-- Create and insert drawing @serejandmyself
+- Create and insert a drawing @serejandmyself
+
+Format in airplane style:
 
 - Stick to a quite, prefarbly totaly silent, place
 - Prepare a device from which to have a hangout call
