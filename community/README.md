@@ -1,11 +1,11 @@
 # The Citizen Cosmos Community
 
-Citizen Cosmos runs various community inititives and creates various helpful docuemtnaton that can help deep dive study web3, Cosmos and surrounding blockchain technolgy.
+Citizen Cosmos runs various community initiatives and creates various helpful documentation that can help deep dive study web3, Cosmos and surrounding blockchain technolgy.
 
 ### Education material
 
 - [A list of mentioned blockchain projects on the show](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/community/A%20list%20of%20mentioned%20projects.md): Find out what technology excites and influences web3 builders 
-- [Ongoing custjmer jounrney](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/community/ongoing%20customer%20journey.md): Learn about blockchain and web3 by listening to podcast episdoes  
+- [Ongoing custjmer journey](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/community/ongoing%20customer%20journey.md): Learn about blockchain and web3 by listening to podcast episodes  
 
 ### Intercative
 
@@ -14,5 +14,5 @@ Citizen Cosmos runs various community inititives and creates various helpful doc
 
 ### Public good reposotories
 
-- [Awesome Cosmos social](https://github.com/citizen-cosmos/Awesome-cosmos-social): A list of eocsystm social profiles. Connect with ecosystem projects
-- [Awesoem Cosmos RU](https://github.com/citizen-cosmos/Awesome-cosmos-ru): A list of useful links about Cosmos / Tendermint in Russian
+- [Awesome Cosmos social](https://github.com/citizen-cosmos/Awesome-cosmos-social): A list of eocsystem social profiles. Connect with ecosystem projects
+- [Awesome Cosmos RU](https://github.com/citizen-cosmos/Awesome-cosmos-ru): A list of useful links about Cosmos / Tendermint in Russian
