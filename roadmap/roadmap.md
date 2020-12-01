@@ -124,9 +124,9 @@ The Citizen Cosmos validator is its main source of income and one of its communi
 - [ ] [Server payments & accountancy]()
 
 #### Growth and ecosystem
-- [ ] [Website / App]()
-- [ ] [Plan for liveliness in participating networks]() 
-- [ ] [Supporting network plan](https://github.com/citizen-cosmos/Staking/issues/10)
+- [ ] [Website / App](https://github.com/citizen-cosmos/Staking/issues/11)
+- [x] [Plan for liveliness in participating networks](https://github.com/citizen-cosmos/Staking/issues/9) 
+- [x] [Supporting network plan](https://github.com/citizen-cosmos/Staking/issues/10)
 - [ ] [Guides and network description](https://github.com/citizen-cosmos/Staking/issues/9)
 - [ ] [Community advocacy presence](https://github.com/citizen-cosmos/Staking/issues/9) 
 - [ ] [Semantics core](https://github.com/citizen-cosmos/Staking/issues/9)
