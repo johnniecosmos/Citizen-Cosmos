@@ -1,6 +1,6 @@
 # The Citizen Cosmos Community
 
-Citizen Cosmos runs various community inititaives and creates various helpful documentation that can help deep dive study web3, Cosmos and surrounding blockchain technolgy.
+Citizen Cosmos runs various community initiatives and creates various helpful documentation that can help deep dive study web3, Cosmos and surrounding blockchain technolgy.
 
 ### Education material
 
