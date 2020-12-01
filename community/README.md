@@ -5,7 +5,7 @@ Citizen Cosmos runs various community initiatives and creates various helpful do
 ### Education material
 
 - [A list of mentioned blockchain projects on the show](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/community/A%20list%20of%20mentioned%20projects.md): Find out what technology excites and influences web3 builders 
-- [Ongoing custjmer journey](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/community/ongoing%20customer%20journey.md): Learn about blockchain and web3 by listening to podcast episodes  
+- [Ongoing customer journey](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/community/ongoing%20customer%20journey.md): Learn about blockchain and web3 by listening to podcast episodes  
 
 ### Intercative
 
