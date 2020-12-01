@@ -1,13 +1,13 @@
 # Citizen Cosmos
 
-Citizen Cosmos: Citizen Cosmos is a web3 brand and a podcast that aims to discover and promote the masterminds behind the Cosmos blockchain ecosystem, web3 builders, their technological ambitions and personalities. Feel free to like and share any episodes or just leave your comments, feedback and wishes!
+Citizen Cosmos: Citizen Cosmos is a web3 brand and a podcast that aims to discover and promote the masterminds behind the Cosmos blockchain ecosystem, web3 builders, their technological ambitions and personalities.
 
-A receiver of an [ICF Q2-2020 Grant](https://medium.com/@interchain_io/icf-q2-2020-funding-recipients-e5cbb326c23c)! 
+- A receiver of an [ICF Q2-2020 Grant](https://medium.com/@interchain_io/icf-q2-2020-funding-recipients-e5cbb326c23c)! 
 
 If you like what we do and want to support our work: [stake with the Citizen Cosmos validator](https://www.citizencosmos.space/staking) and check out our [Gitcoin Grant Page](https://gitcoin.co/grants/1113/citizen-cosmos-podcast) 
 
 <div align="center">
- <img src="CitizenCosmosLogo.jpg" width="320" />
+ <img src="project/branding/CitizenCosmosLogo.jpg" width="320" />
 </div>
 
 <div align="center">
@@ -431,5 +431,51 @@ __Episode list:__
     45.05: Chaos Communication Congress
     
     46.30: Exciting blockchain projects
+
+</details>
+
+###### 18: Antoine Herzog, Starname & decentralized identity: [Website link](https://www.citizencosmos.space/starname) | [Web3 link]()
+
+
+<details>
+<summary>Episode Timeline</summary>
+ 
+    0.37: Community of podcast hosts 
+    
+    1.20: Startname or IOV
+    
+    1.48: Migrating to Cosmos 
+    
+    02.38: What is Starname 
+    
+    04.30: DeFi projects in France 
+    
+    05.43: Personality and name in the crypto space 
+    
+    07.10: AML and privacy 
+    
+    9.50: DeFi and NFT tokens
+    
+    10.50: Migrating to the Cosmos ecosystem 
+    
+    14.10: Validators experience 
+    
+    16.49: Coingecko
+    
+    20.38: The French blockchain ecosystem 
+    
+    22.28: Similarities with Urbit 
+    
+    23.01: Company management 
+    
+    24.45: Finding the right balance
+    
+    26.01: The Circle project
+    
+    26.46: How to make peace with your inner voice
+    
+    28.40: Mentorship and how it can help 
+    
+    31.20: Exciting blockchain projects 
 
 </details>
