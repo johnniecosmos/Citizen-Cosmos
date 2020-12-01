@@ -49,7 +49,7 @@ graph TD
 
 The Citizen Cosmos podcast is its main source of communication and its main working tool. To achieve our goal, 4 major tasks require completion:  
 
-- [ ] [Forming a vision](#forming-a-vision)
+- [x] [Forming a vision](#forming-a-vision)
 - [ ] [Administrative questions](#administrative-questions)
 - [ ] [Shaping the ecosystem](#ecosystem-and-pr)
 - [ ] [Growth](#growth)
@@ -58,8 +58,8 @@ The Citizen Cosmos podcast is its main source of communication and its main work
 
 Create the initial steps, required to shape the brand:
 
-- [ ] [Create and publish a roadmap](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/28)
-- [ ] [Create a marketing plan for the podcast](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
+- [x] [Create and publish a roadmap](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/28)
+- [x] [Create a marketing plan for the podcast](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
 
 #### Administrative questions
 
