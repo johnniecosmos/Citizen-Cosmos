@@ -1,6 +1,6 @@
 # Mentioned projects on the podcast
 
-This list contains all the mentioned projects on the podcast, along with a small description and a link
+This list contains all the mentioned projects on the podcast, along with a small description and a link to the corresponding podcast episode!
 
 ## Episode 1: [Gavin from Figment Network & Governance](https://www.citizencosmos.space/figment-network-governance)
 In this episode, we talk to Gavin and discuss the governance behind the Cosmos Ecosystem
@@ -90,4 +90,30 @@ In this episode, we speak to Sunny Aggarwal. Sunny is the chief of research at T
 - [Aragon Protocol](https://blog.aragon.one/): Aragon Chain: a proof of stake blockchain for the Aragon community
 
 
-## Episode 5: 
+## Episode 5: Lee Hyung Yeon, B-Harvest & Data Privacy(https://www.citizencosmos.space/bharvest-data-privacy)
+In this episode, Serj and Anna catch up with Lee Hyung Yeon from Bharvest validator and staking services provider. We discuss a risk managers view on the world of blockchain, cryptonomics and Web 3 projects.  We also touch on data privacy aspects of the Cosmos protocol.
+- [B-Harvest](https://bharvest.io/): B-Harvest provides validation services for multiple dPoS networks and is actively engaging in decentralized governance. 
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [Game of Stakes](https://github.com/cosmos/game-of-stakes): Hosted by Cosmos Network, Game of Stakes (GoS) was a first-of-its-kind competition that tested the security of Cosmos' Byzantine-Fault-Tolerance (BFT) based Proof-of-Stake (PoS) consensus algorithm prior to their mainnet launch (ended on early 2019).
+- [Forbole](https://www.forbole.com/): Founded in Hong Kong in 2017, Forbole is a pioneer in blockchain staking, technology and UX solution.
+- [Figment Networks](https://figment.io/): Based in Canada, serving customers worldwide, Figment is the country’s largest blockchain infrastructure, and services provider.
+- [Cybernomics](https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#cybernomics): Cybernomics is a scientific study of provable control, computing and communication in intelligent beings and amongst them.
+- [Cyber](https://cyber.page/): Cyber is a decentralized Google. It is an innovative search protocol that can provide provable answers to questions without an intermediary opinion.
+- [Web3](https://web3.foundation/): Web3is about applications for decentralized web software protocols. Delivering Web 3.0, is about delivering a decentralized and fair internet where users control their own data, identity and destiny.
+- [Polkadot](https://polkadot.network/: Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Google](https://google.com)
+- [Facebook](https://facebook.com)
+- [Microsoft](https://microsoft.com)
+- [zk-SNARKS](https://z.cash/technology/zksnarks/): Zcash is the first widespread application of zk-SNARKs, a novel form of zero-knowledge cryptography.
+- [HyperLedger](https://www.hyperledger.org/): Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments.
+- [IBC (Inter Blockchain Communication Protocol)](https://cosmos.network/ibc): Connecting blockchains is at the heart of interoperability.
+- [NuCypher](https://www.nucypher.com/): Cryptographic Infrastructure for Privacy-Preserving Application.
+- [Enigma](https://www.enigma.co/): Enigma builds and supports groundbreaking privacy-focused technologies and networks. They are core contributors to the [Secret Network](https://www.scrt.network), a unique blockchain-based network where computations can be performed on encrypted data. 
+- [Oasis Labs](https://www.oasislabs.com/): Oasis Labs is all-in-one tool for controlling and sharing data.
+- [CosmWasm](https://cosmwasm.com/): Build your robust dApps on secure, multi-chain smart contract.
+- [Metamask](https://metamask.io/): A crypto wallet & gateway to blockchain apps.
+
+
+## Episode 6: [JK, Stake Fish & tech adoption](https://www.citizencosmos.space/stakefish-adoption)
+In this episode, we speak with JK from Stake Fish staking service provider. We discuss the recipe needed to become the biggest fish among Cosmos validators. About languages, location, difficult decisions, the origins of the naming of the fish, the criteria needed for Stake Fish to validate your project and Children of the Earth.
