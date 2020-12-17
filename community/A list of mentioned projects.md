@@ -90,7 +90,7 @@ In this episode, we speak to Sunny Aggarwal. Sunny is the chief of research at T
 - [Aragon Protocol](https://blog.aragon.one/): Aragon Chain: a proof of stake blockchain for the Aragon community
 
 
-## Episode 5: Lee Hyung Yeon, B-Harvest & Data Privacy(https://www.citizencosmos.space/bharvest-data-privacy)
+## Episode 5: [Lee Hyung Yeon, B-Harvest & Data Privacy](https://www.citizencosmos.space/bharvest-data-privacy)
 In this episode, Serj and Anna catch up with Lee Hyung Yeon from Bharvest validator and staking services provider. We discuss a risk managers view on the world of blockchain, cryptonomics and Web 3 projects.  We also touch on data privacy aspects of the Cosmos protocol.
 - [B-Harvest](https://bharvest.io/): B-Harvest provides validation services for multiple dPoS networks and is actively engaging in decentralized governance. 
 - [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
@@ -117,3 +117,25 @@ In this episode, Serj and Anna catch up with Lee Hyung Yeon from Bharvest valida
 
 ## Episode 6: [JK, Stake Fish & tech adoption](https://www.citizencosmos.space/stakefish-adoption)
 In this episode, we speak with JK from Stake Fish staking service provider. We discuss the recipe needed to become the biggest fish among Cosmos validators. About languages, location, difficult decisions, the origins of the naming of the fish, the criteria needed for Stake Fish to validate your project and Children of the Earth.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [Stake Fish](https://stake.fish/en/): A leading staking service provider for blockchain projects.
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Bitcoin Project](https://bitcoin.org/en/): Bitcoin uses peer-to-peer technology to operate with no central authority or banks.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [IBC (Inter Blockchain Communication Protocol)](https://cosmos.network/ibc): Connecting blockchains is at the heart of interoperability.
+- [Bit Fish](https://bit.fish/): Paving the way to a more decentralized world with information, collateralization and co-ownership.
+- [Cyber](https://cyber.page/): Cyber is a decentralized Google. It is an innovative search protocol that can provide provable answers to questions without an intermediary opinion.
+- [EOS](https://eos.io/): EOSIO is an open-source blockchain platform that enables transparency in transactions at a high speed.
+- [Game of Stakes](https://github.com/cosmos/game-of-stakes): Hosted by Cosmos Network, Game of Stakes (GoS) was a first-of-its-kind competition that tested the security of Cosmos' Byzantine-Fault-Tolerance (BFT) based Proof-of-Stake (PoS) consensus algorithm prior to their mainnet launch (ended on early 2019).
+- [Steemit](https://steemit.com/): Steemit has redefined social media by building a living, breathing, and growing social economy - a community where users are rewarded for sharing their voice. It's a new kind of attention economy.
+- [Tron](https://tron.network/): Tron claims to be a project dedicated to building the infrastructure for a decentralized Internet. 
+- [DLive](https://dlive.io/):  DLive is a video live streaming service founded in September 2018. DLive operates using a blockchain for its servers and donation systems.
+- [Cosmos SDK](https://cosmos.network/sdk): The world's most used framework for building blockchains.
+- [Audius](https://audius.co/): Giving everyone the freedom to distribute, monetize, and stream unstoppable audio.
+- [Kava](https://www.kava.io/): Kava's multi-chain DeFi Lending platform offers USDX stablecoin loans and Chainlink oracle data to major blockchains and end-user applications.
+- [Terra](https://terra.money/): Building decentralized payments, savings and investments at scale.
+- [Zoom]: 
+
+
+## Episode 7: [Adriana Mihai, KalpaTech & Passion](https://www.citizencosmos.space/adriana-passion)
+This time we catch up with Adriana Mihai, community advocate at Tendermint. Adriana is the founder of the KalpaTech validator and the creator of Today in Cosmos. We chat about the importance of the ecosystem, followers, diversified funding, how to quit your day job and sleepless nights.
