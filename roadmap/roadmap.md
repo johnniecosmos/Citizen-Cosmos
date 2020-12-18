@@ -85,7 +85,7 @@ These are vastly ongoin tasks that constantly require attention:
 - [ ] [Transcripts for each episode](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/51)
 - [ ] [Video (picture) podcast version](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/50)
 - [ ] [TG stickers](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/33)
-- [ ] [Community episode](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/35)
+- [x] [Community episode](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/35)
 - [ ] [Customer journey experience](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/22)
 - [ ] [Mentioned blockchain projects list for educational purposes](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/21)
 - [ ] [Cross podcast work](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/38)
