@@ -120,7 +120,7 @@ The Citizen Cosmos validator is its main source of income and one of its communi
 #### Administrative questions
 - [x] [Devops]()
 - [ ] [Threshold signing](https://github.com/citizen-cosmos/Staking/issues/3)
-- [ ] [Migration]()
+- [x] [Migration]()
 - [ ] [Server payments & accountancy]()
 
 #### Growth and ecosystem
