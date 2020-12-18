@@ -97,12 +97,12 @@ These are vastly ongoin tasks that constantly require attention:
 
 Future visionary plans that can help to shape the bigger picture. Should be taken with a pinch of salt:
 
-- [ ] [Bitsong]()
+- [x] [Bitsong]()
 - [ ] [Citizen Dot]()
 - [ ] [DAO]()
 - [ ] [Grants and community pools](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/20)
 - [ ] [Decentraland zone]()
-- [ ] [citizencosmos.eth](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
+- [x] [citizencosmos.eth](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
 - [ ] [re-link website using cyber.page]()
 - [ ] [IPFS cluster](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
 - [ ] [Host personification]()
