@@ -148,7 +148,7 @@ The Citizen Cosmos runs various public community iniatives to help communicate i
 - [ ] [Grant work](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/20)
 
 #### Ongoing iniatives 
-- [ ] [TIC translations](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
+- [x] [TIC translations](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
 - [ ] [SM work: Twitter, TG, forum](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
 - [ ] Public good repositories: [1](https://github.com/citizen-cosmos/Awesome-cosmos-social) & [2](https://github.com/citizen-cosmos/Awesome-cosmos-ru)
 
