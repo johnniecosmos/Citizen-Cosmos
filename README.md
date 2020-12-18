@@ -479,3 +479,5 @@ __Episode list:__
     31.20: Exciting blockchain projects 
 
 </details>
+
+###### 19: Zarko Milosevic, Tendermint, consensus and verification: [Website link](https://www.citizencosmos.space/zarko) | [Web3 link]()
