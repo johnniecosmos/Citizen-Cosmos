@@ -134,8 +134,22 @@ In this episode, we speak with JK from Stake Fish staking service provider. We d
 - [Audius](https://audius.co/): Giving everyone the freedom to distribute, monetize, and stream unstoppable audio.
 - [Kava](https://www.kava.io/): Kava's multi-chain DeFi Lending platform offers USDX stablecoin loans and Chainlink oracle data to major blockchains and end-user applications.
 - [Terra](https://terra.money/): Building decentralized payments, savings and investments at scale.
-- [Zoom]: 
+- [Zoom]:(https://zoom.us/)
 
 
 ## Episode 7: [Adriana Mihai, KalpaTech & Passion](https://www.citizencosmos.space/adriana-passion)
 This time we catch up with Adriana Mihai, community advocate at Tendermint. Adriana is the founder of the KalpaTech validator and the creator of Today in Cosmos. We chat about the importance of the ecosystem, followers, diversified funding, how to quit your day job and sleepless nights.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [Kalpatech](https://kalpatech.co/): A team of ambitious blockchain enthusiasts that shared their knowledge in creating one of the first companies for managing digital asset portfolios.
+- [Dokia Capital](https://dokia.capital/): Dokia Capital operate a professional staking infrastructure as a validator in multiple networks.
+- [E-money](https://e-money.com/): Improving the legacy banking system with a single efficient blockchain layer.
+- [Game of Stakes](https://github.com/cosmos/game-of-stakes): Hosted by Cosmos Network, Game of Stakes (GoS) was a first-of-its-kind competition that tested the security of Cosmos' Byzantine-Fault-Tolerance (BFT) based Proof-of-Stake (PoS) consensus algorithm prior to their mainnet launch (ended on early 2019).
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
+- [Keep](https://keep.network/): Keep technology is what sets tBTC apart as the only decentralized solution for Bitcoin on Ethereum.
+- [NuCypher](https://www.nucypher.com/): Cryptographic Infrastructure for Privacy-Preserving Application.
+- [Cyber](https://cyber.page/): Cyber is a decentralized Google. It is an innovative search protocol that can provide provable answers to questions without an intermediary opinion.
+- [Nervos](https://www.nervos.org/): NERVOS CKB is the only PoW POW multi asset and store of value general purpose blockchain for the new crypto-economy. 
+- [Celo](https://celo.org/): Celo is an open platform that makes financial tools accessible to anyone with a mobile phone.
+- [Coda Protocol](https://www.r3.com/): Blockchain applications built on Corda can reimagine and increase the potential of existing business networks, enabling direct and trusted transactions that eliminate friction and accelerate growth.
+- [ICF (Interchain Foundation)](https://interchain.io/): ICF fund and collaborate with a wide variety of projects in Research, Engineering, Product, Social Good, and Community.
