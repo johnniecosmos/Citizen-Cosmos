@@ -68,7 +68,6 @@ In this episode, we speak to Sunny Aggarwal. Sunny is the chief of research at T
 - [Sikka](https://www.sikka.tech/): Sikka is a company focused on building and operating secure infrastructure for blockchains and other decentralized networks.
 - [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
 - [Tezos](https://tezos.com/): Tezos is an open-source platform for assets and applications backed by a global community of validators, researchers, and builders.
-- [Sikka](https://www.sikka.tech/): Sikka is a company focused on building and operating secure infrastructure for blockchains and other decentralized networks.
 - [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
 - [Holograpohic Consensus](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c): Decentralized governance is the field of protocols that coordinate large number of agents into a collective action, implemented with smart contracts on the blockchain.
 - [Grin](https://grin.mw/): Electronic transactions for all. Without censorship or restrictions.
