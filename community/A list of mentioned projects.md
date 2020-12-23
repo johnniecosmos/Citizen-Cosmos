@@ -99,7 +99,7 @@ In this episode, Serj and Anna catch up with Lee Hyung Yeon from Bharvest valida
 - [Cybernomics](https://github.com/cybercongress/congress/blob/master/ecosystem/Cyber%20Homestead%20doc.md#cybernomics): Cybernomics is a scientific study of provable control, computing and communication in intelligent beings and amongst them.
 - [Cyber](https://cyber.page/): Cyber is a decentralized Google. It is an innovative search protocol that can provide provable answers to questions without an intermediary opinion.
 - [Web3](https://web3.foundation/): Web3is about applications for decentralized web software protocols. Delivering Web 3.0, is about delivering a decentralized and fair internet where users control their own data, identity and destiny.
-- [Polkadot](https://polkadot.network/: Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
+- [Polkadot](https://polkadot.network/): Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
 - [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
 - [Google](https://google.com)
 - [Facebook](https://facebook.com)
@@ -108,7 +108,8 @@ In this episode, Serj and Anna catch up with Lee Hyung Yeon from Bharvest valida
 - [HyperLedger](https://www.hyperledger.org/): Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments.
 - [IBC (Inter Blockchain Communication Protocol)](https://cosmos.network/ibc): Connecting blockchains is at the heart of interoperability.
 - [NuCypher](https://www.nucypher.com/): Cryptographic Infrastructure for Privacy-Preserving Application.
-- [Enigma](https://www.enigma.co/): Enigma builds and supports groundbreaking privacy-focused technologies and networks. They are core contributors to the [Secret Network](https://www.scrt.network), a unique blockchain-based network where computations can be performed on encrypted data. 
+- [Enigma](https://www.enigma.co/): Enigma builds and supports groundbreaking privacy-focused technologies and networks. 
+- [Secret Network](https://www.scrt.network): a unique blockchain-based network where computations can be performed on encrypted data. 
 - [Oasis Labs](https://www.oasislabs.com/): Oasis Labs is all-in-one tool for controlling and sharing data.
 - [CosmWasm](https://cosmwasm.com/): Build your robust dApps on secure, multi-chain smart contract.
 - [Metamask](https://metamask.io/): A crypto wallet & gateway to blockchain apps.
@@ -133,7 +134,7 @@ In this episode, we speak with JK from Stake Fish staking service provider. We d
 - [Audius](https://audius.co/): Giving everyone the freedom to distribute, monetize, and stream unstoppable audio.
 - [Kava](https://www.kava.io/): Kava's multi-chain DeFi Lending platform offers USDX stablecoin loans and Chainlink oracle data to major blockchains and end-user applications.
 - [Terra](https://terra.money/): Building decentralized payments, savings and investments at scale.
-- [Zoom]:(https://zoom.us/)
+- [Zoom](https://zoom.us/)
 
 
 ## Episode 7: [Adriana Mihai, KalpaTech & Passion](https://www.citizencosmos.space/adriana-passion)
