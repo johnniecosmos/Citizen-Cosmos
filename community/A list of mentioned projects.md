@@ -154,6 +154,7 @@ This time we catch up with Adriana Mihai, community advocate at Tendermint. Adri
 - [Coda Protocol](https://www.r3.com/): Blockchain applications built on Corda can reimagine and increase the potential of existing business networks, enabling direct and trusted transactions that eliminate friction and accelerate growth.
 - [ICF (Interchain Foundation)](https://interchain.io/): ICF fund and collaborate with a wide variety of projects in Research, Engineering, Product, Social Good, and Community.
 
+
 ## Episode 8: [Aragon Chain, ChainSafe & DAO](https://www.citizencosmos.space/aragon-chain)
 In this episode we speak with Jorge, CEO of Aragon One & with Aidan and Colin from ChainSafe.  We discussed the future Aragon Chain on Cosmos, talked about the main concerns for Aragon DAOs, the social issues that may arise from managing communities on multiple chains for one project, American-centric infrastructure and whether it’s possible or not to create a DAO without a jurisdiction.
 - [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
@@ -172,6 +173,8 @@ In this episode we speak with Jorge, CEO of Aragon One & with Aidan and Colin fr
 - [cyber~Congress DAO](https://client.aragon.org/#/cybercongress/): cyber~Congress DAO website.
 - [cyber~Foundation DAO](https://client.aragon.org/#/eulerfoundation/): cyber~Foundation DAO website.
 - [1Hive](https://1hive.org/#/home): 1Hive is a DAO that issues and distributes a digital currency called Honey.
+- [LexDAO](https://github.com/lexDAO/TLDR/blob/master/README.md): Transactional Scripts for Legal and Ethereal Deal Security.
+- [LexDAO](https://lexdao.org/#/): LexDAO is a group of legal engineering professionals who are seeking to provide a trusted layer between the decentralized world of blockchains and a legal settlement layer in the real world. We are trying to bridge this layer to provide a working framework for organizations to work in a trustless and trusted manner using Ethereum, blockchains, smart contracts and decentralized organizations.
 
 
 ## Episode 9: [Ethan Buchman, the now and then of Cosmos](https://www.citizencosmos.space/ethan-buchman-cosmos)
