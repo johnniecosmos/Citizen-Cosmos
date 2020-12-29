@@ -134,7 +134,7 @@ In this episode, we speak with JK from Stake Fish staking service provider. We d
 - [Audius](https://audius.co/): Giving everyone the freedom to distribute, monetize, and stream unstoppable audio.
 - [Kava](https://www.kava.io/): Kava's multi-chain DeFi Lending platform offers USDX stablecoin loans and Chainlink oracle data to major blockchains and end-user applications.
 - [Terra](https://terra.money/): Building decentralized payments, savings and investments at scale.
-- [Zoom]:(https://zoom.us/)
+- [Zoom](https://zoom.us/): Zoom website.
 
 
 ## Episode 7: [Adriana Mihai, KalpaTech & Passion](https://www.citizencosmos.space/adriana-passion)
