@@ -85,7 +85,7 @@ These are vastly ongoin tasks that constantly require attention:
 - [ ] [Transcripts for each episode](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/51)
 - [ ] [Video (picture) podcast version](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/50)
 - [ ] [TG stickers](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/33)
-- [ ] [Community episode](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/35)
+- [x] [Community episode](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/35)
 - [ ] [Customer journey experience](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/22)
 - [ ] [Mentioned blockchain projects list for educational purposes](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/21)
 - [ ] [Cross podcast work](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/38)
@@ -97,12 +97,12 @@ These are vastly ongoin tasks that constantly require attention:
 
 Future visionary plans that can help to shape the bigger picture. Should be taken with a pinch of salt:
 
-- [ ] [Bitsong]()
+- [x] [Bitsong]()
 - [ ] [Citizen Dot]()
 - [ ] [DAO]()
 - [ ] [Grants and community pools](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/20)
 - [ ] [Decentraland zone]()
-- [ ] [citizencosmos.eth](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
+- [x] [citizencosmos.eth](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
 - [ ] [re-link website using cyber.page]()
 - [ ] [IPFS cluster](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/7)
 - [ ] [Host personification]()
@@ -120,7 +120,7 @@ The Citizen Cosmos validator is its main source of income and one of its communi
 #### Administrative questions
 - [x] [Devops]()
 - [ ] [Threshold signing](https://github.com/citizen-cosmos/Staking/issues/3)
-- [ ] [Migration]()
+- [x] [Migration]()
 - [ ] [Server payments & accountancy]()
 
 #### Growth and ecosystem
@@ -148,7 +148,7 @@ The Citizen Cosmos runs various public community iniatives to help communicate i
 - [ ] [Grant work](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/20)
 
 #### Ongoing iniatives 
-- [ ] [TIC translations](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
+- [x] [TIC translations](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
 - [ ] [SM work: Twitter, TG, forum](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
 - [ ] Public good repositories: [1](https://github.com/citizen-cosmos/Awesome-cosmos-social) & [2](https://github.com/citizen-cosmos/Awesome-cosmos-ru)
 
