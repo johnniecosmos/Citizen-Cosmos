@@ -153,3 +153,30 @@ This time we catch up with Adriana Mihai, community advocate at Tendermint. Adri
 - [Celo](https://celo.org/): Celo is an open platform that makes financial tools accessible to anyone with a mobile phone.
 - [Coda Protocol](https://www.r3.com/): Blockchain applications built on Corda can reimagine and increase the potential of existing business networks, enabling direct and trusted transactions that eliminate friction and accelerate growth.
 - [ICF (Interchain Foundation)](https://interchain.io/): ICF fund and collaborate with a wide variety of projects in Research, Engineering, Product, Social Good, and Community.
+
+## Episode 8: [Aragon Chain, ChainSafe & DAO](https://www.citizencosmos.space/aragon-chain)
+In this episode we speak with Jorge, CEO of Aragon One & with Aidan and Colin from ChainSafe.  We discussed the future Aragon Chain on Cosmos, talked about the main concerns for Aragon DAOs, the social issues that may arise from managing communities on multiple chains for one project, American-centric infrastructure and whether it’s possible or not to create a DAO without a jurisdiction.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [Chainsafe Systems](https://chainsafe.io/): ChainSafe is a company focusing in blockchain protocol and infrastructure development.
+- [Aragon](https://aragon.org/): Aragon gives internet communities unprecedented power to organize around shared values and resources.
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Web3](https://web3.foundation/): Web3is about applications for decentralized web software protocols. Delivering Web 3.0, is about delivering a decentralized and fair internet where users control their own data, identity and destiny.
+- [Rust](https://www.rust-lang.org/):  A language empowering everyone to build reliable and efficient software.
+- [Lodestar](https://github.com/ChainSafe/lodestar): Lodestar is a Typescript implementation of the Ethereum 2.0 specification developed by ChainSafe Systems.
+- [Polkadot](https://polkadot.network/: Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
+- [Ethermint](docs.ethermint.zone): Ethereum Virtual Machine, powered by Tendermint BFT.
+- [Sentinel](https://sentinel.co/): The Sentinel Network hosts open-source distributed and decentralized applications that provide users with assurance that their session information is not being logged, their communication is not being stored, and that not even the creator of the application can view any of their data.
+- [Decentraland](https://decentraland.org/): Create, explore and trade in the first-ever virtual world owned by its users.
+- [Kusama](https://kusama.network/): Built using Substrate with nearly the same codebase and industry-leading multichain infrastructure as Kusama’s cousin, Polkadot.
+- [Filecoin](https://filecoin.io/): FIlecoin is a decentralised storage network.
+- [cyber~Congress DAO](https://client.aragon.org/#/cybercongress/): cyber~Congress DAO website.
+- [cyber~Foundation DAO](https://client.aragon.org/#/eulerfoundation/): cyber~Foundation DAO website.
+- [1Hive](https://1hive.org/#/home): 1Hive is a DAO that issues and distributes a digital currency called Honey.
+
+
+## Episode 9: [Ethan Buchman, the now and then of Cosmos](https://www.citizencosmos.space/ethan-buchman-cosmos)
+In this episode, we talk with Ethan Buchman, about the current design of the Cosmos ecosystem and plans for the future. During our conversation, we discuss the differences between finance and money. We go deep into the topic of DeFi and other use cases. We talked a lot about system structuring for biological systems, informal systems, distributed systems and organizations. And finally, we discuss hummus, the proof of stake palace and the scam train single.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+
+
+ 
