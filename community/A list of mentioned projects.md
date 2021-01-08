@@ -181,6 +181,26 @@ In this episode we speak with Jorge, CEO of Aragon One & with Aidan and Colin fr
 ## Episode 9: [Ethan Buchman, the now and then of Cosmos](https://www.citizencosmos.space/ethan-buchman-cosmos)
 In this episode, we talk with Ethan Buchman, about the current design of the Cosmos ecosystem and plans for the future. During our conversation, we discuss the differences between finance and money. We go deep into the topic of DeFi and other use cases. We talked a lot about system structuring for biological systems, informal systems, distributed systems and organizations. And finally, we discuss hummus, the proof of stake palace and the scam train single.
 - [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Cephalopod Equipment](https://cephalopod.equipment/): We are the Cephalopod Equipment Corp. — a small, independent network validator based in Toronto, Canada.
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Informal Systems](https://informal.systems/): We envision an open-source ecosystem of cooperatively owned and governed distributed organizations running on reliable distributed systems.
+- [Ethermint](docs.ethermint.zone): Ethereum Virtual Machine, powered by Tendermint BFT.
+- [JavaScript](https://www.javascript.com/): JavaScript is a programming language commonly used in web development.
+- [Polkadot](https://polkadot.network/: Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
+- [ICF (Interchain Foundation)](https://interchain.io/): ICF fund and collaborate with a wide variety of projects in Research, Engineering, Product, Social Good, and Community.
+- [Solidity)](https://docs.soliditylang.org/en/v0.7.4/): Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
+- [Bitcoin Project](https://bitcoin.org/en/): Bitcoin uses peer-to-peer technology to operate with no central authority or banks.
+- [CosmWasm](https://cosmwasm.com/): Build your robust dApps on secure, multi-chain smart contract.
+- [Github](https://github.com): GitHub is where over 50 million developers shape the future of software, together.
+- [Cosmos SDK](https://cosmos.network/sdk): The world's most used framework for building blockchains.
+- [Tezos](https://tezos.com/): Tezos is an open-source platform for assets and applications backed by a global community of validators, researchers, and builders.
+- [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
+- [Lunie](https://lunie.io/): Lunie was a wallet that allowed participating in staking, governance, and keep up-to-date with your favourite networks.
+- [Uniswap](https://uniswap.org/): Uniswap is a decentralized protocol for automated liquidity provision on Ethereum.
+- [NEAR Protocol](https://near.org/): NEAR is an open source platform that accelerates the development of decentralized applications.
+- [Orbit Blockchain](https://orbitchain.io/): Decentralized Inter-Blockchain Communication.
 
 
- 
+## Episode 10: [Gregory Landua, blockchain & regeneration](https://www.citizencosmos.space/regen-network-regeneration)
+In this episode we talk to Gregory Landua. Gregory is the chief regeneration officer at Regen network. Together, we discuss the quantum and the probabilistic world and the conversion of physical assets to the digital realm. Finally, we discuss gaming. The game Google and Facebook are playing at, and the differences between game A and B. Finally, we mentioned cocoa beans, Alaska and learn how to spot a good avocado.
