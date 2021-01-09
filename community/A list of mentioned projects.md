@@ -204,3 +204,20 @@ In this episode, we talk with Ethan Buchman, about the current design of the Cos
 
 ## Episode 10: [Gregory Landua, blockchain & regeneration](https://www.citizencosmos.space/regen-network-regeneration)
 In this episode we talk to Gregory Landua. Gregory is the chief regeneration officer at Regen network. Together, we discuss the quantum and the probabilistic world and the conversion of physical assets to the digital realm. Finally, we discuss gaming. The game Google and Facebook are playing at, and the differences between game A and B. Finally, we mentioned cocoa beans, Alaska and learn how to spot a good avocado.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [Regen Network](https://www.regen.network/): Regen Network aligns economics with ecology to drive regenerative land management.
+- [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement): The Paris Agreement is a legally binding international treaty on climate change. It was adopted by 196 Parties at COP 21 in Paris, on 12 December 2015 and entered into force on 4 November 2016.
+- [ExxonMobil](https://corporate.exxonmobil.com/)
+- [Google](https://google.com)
+- [Facebook](https://facebook.com)
+- [Copernicus Program](https://www.copernicus.eu/): Looking at our planet and its environment for the ultimate benefit of all European citizens.
+- [NASA](https://www.nasa.gov/)
+- [Vera](https://www.vera.com/): Data security that follows your files, everywhere.
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Cyber](https://cyber.page/): Cyber is a decentralized Google. It is an innovative search protocol that can provide provable answers to questions without an intermediary opinion.
+
+
+## Episode 11: [Harriet Cao, IRIS Network & Hub](https://www.citizencosmos.space/iris-network)
+In this episode, we speak to Harriet Cao. Harriet is the co-founder of Iris Network, Bianjie AI, and a member of the newly formed board of directors at Tendermint inc. We discuss how the Iris Hub helps to decentralize the Cosmos ecosystem. AI from the point of view of an expert with over 16 years of experience. And the specific requirements for blockchain projects in China. We also find out whether being an engineer is better than a doctor.
+
