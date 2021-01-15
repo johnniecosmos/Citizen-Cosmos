@@ -12,9 +12,9 @@ If you like what we do and want to support our work: [stake with the Citizen Cos
 
 <div align="center">
 
-| **Visit our [Website](https://www.citizencosmos.space/)** | **Sign to [RSS feed](https://www.citizencosmos.space/rss)**  | **Join our [Telegram channel](https://t.me/citizen_cosmos)** | **Check out the [brand roadmap](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/roadmap/roadmap.md)** |
+| **Visit our [Website](https://www.citizencosmos.space/)** | **Sign to the [RSS feed](https://www.citizencosmos.space/rss)**  | **Join our [Telegram](https://t.me/citizen_cosmos)** | **Check out our [roadmap](https://github.com/citizen-cosmos/Citizen-Cosmos/blob/master/roadmap/roadmap.md)** |
 
-| **Follow us on [Twitter](https://twitter.com/cosmos_voice)** | **Find us on web-3 [with IPFS & cyber.page](https://cyber.page/search/citizen%20cosmos)** |
+| **Follow us on [Twitter](https://twitter.com/cosmos_voice)** | **Listen on [YouTube](https://www.youtube.com/channel/UCP0ZV8ducS3U2QEsIZQ1taQ)** | **Find us on web-3 [with IPFS & cyber.page](https://cyber.page/search/citizen%20cosmos)** |
 
 </div>
 
