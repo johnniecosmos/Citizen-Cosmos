@@ -481,3 +481,9 @@ __Episode list:__
 </details>
 
 ###### 19: Zarko Milosevic, Tendermint, consensus and verification: [Website link](https://www.citizencosmos.space/zarko) | [Web3 link]()
+
+###### 20: Tushar Aggarwal, Persistence and Institutional DeFi: [Website link](https://www.citizencosmos.space/persistence) | [Web3 link]()
+
+###### 21: Denizen Cosmos: Xmas special 2020: [Website link](https://www.citizencosmos.space/dinezen-xmas) | [Web3 link]()
+
+###### 22: Ian and Jacob, Secret Nodes and Privacy: [Website link](https://www.citizencosmos.space/secret-nodes) | [Web3 link]()
