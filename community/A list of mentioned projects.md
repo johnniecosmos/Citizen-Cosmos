@@ -220,4 +220,19 @@ In this episode we talk to Gregory Landua. Gregory is the chief regeneration off
 
 ## Episode 11: [Harriet Cao, IRIS Network & Hub](https://www.citizencosmos.space/iris-network)
 In this episode, we speak to Harriet Cao. Harriet is the co-founder of Iris Network, Bianjie AI, and a member of the newly formed board of directors at Tendermint inc. We discuss how the Iris Hub helps to decentralize the Cosmos ecosystem. AI from the point of view of an expert with over 16 years of experience. And the specific requirements for blockchain projects in China. We also find out whether being an engineer is better than a doctor.
-
+- [Iris Network](https://www.irisnet.org/): Iris Network is an inter-chain service infrastructure and protocol for building trustworthy and distributed business applications.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [IBM](https://www.ibm.com/)
+- [Blue Pages](https://w3.ibm.com/bluepages): IBM Intranet
+- [Github](https://github.com): GitHub is where over 50 million developers shape the future of software, together.
+- [Bianjie](https://www.bianjie.ai/): A for profit subsidiary orf Iris Network
+- [Polkadot](https://polkadot.network/: Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
+- [Irita](https://github.com/bianjieai/irita): Enterprise version of Iris Network.
+- [Cosmos SDK](https://cosmos.network/sdk): The world's most used framework for building blockchains.
+- [Chainlink](https://chain.link/): Chainlink's decentralized oracle network provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain.
+- [Cyber](https://cyber.page/): Cyber is a decentralized Google. It is an innovative search protocol that can provide provable answers to questions without an intermediary opinion.
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Platon Network](https://platon.network/): An infrastructure for Privacy-Preserving Computation and Distributed Economies.
+- [Kava](https://www.kava.io/): Kava's multi-chain DeFi Lending platform offers USDX stablecoin loans and Chainlink oracle data to major blockchains and end-user applications.
+- [NEAR Protocol](https://near.org/): NEAR is an open source platform that accelerates the development of decentralized applications.
+- [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
