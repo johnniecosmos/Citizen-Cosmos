@@ -236,3 +236,25 @@ In this episode, we speak to Harriet Cao. Harriet is the co-founder of Iris Netw
 - [Kava](https://www.kava.io/): Kava's multi-chain DeFi Lending platform offers USDX stablecoin loans and Chainlink oracle data to major blockchains and end-user applications.
 - [NEAR Protocol](https://near.org/): NEAR is an open source platform that accelerates the development of decentralized applications.
 - [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
+
+
+## Episode 22: [Ian and Jacob, Secret Nodes and Privacy](https://www.citizencosmos.space/secret-nodes)
+In this episode we talk to Ian and Jacob, the founders of secretnodes.org and the Puzzle Report explorer for Secret Network, a Cosmos-SDK blockchain with privacy-preserving smart contracts.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [Puzzle Report](https://www.puzzle.report/): Puzzle Report is an explorer for Secret Network owned and operated by Secret LLC.
+- [Secret Nodes](https://secretnodes.org/): secretnodes.org and the community pool is owned and operated by Secret LLC.
+- [Bitcoin Project](https://bitcoin.org/en/): Bitcoin uses peer-to-peer technology to operate with no central authority or banks.
+- [Enigma](https://enigma.co): Enigma builds and supports groundbreaking privacy-focused technologies and networks.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Orchid](https://www.orchid.com/): Crypto powered VPN.
+- [Tor Project](https://www.torproject.org/): Defend yourself against tracking and surveillance. Circumvent censorship.
+- [Secret Network](https://scrt.network/): Secret Network is a Cosmos SDK/Tendermint Project.
+- [Secret Network forums](https://forum.scrt.network/): Secret Network forums.
+- [Etherscan](https://etherscan.io/): The Ethereum Blockchain Explorer.
+- [Into the Block](https://www.intotheblock.com/): A team of cryptocurrency and AI experts.
+- [Big Dipper](https://cosmos.bigdipper.live/): Big Dipper is a blockchain explorer.
+- [Cyber Fund](https://cyber.fund/): Finding Blckchain projects that change the world.
+- [Figment Networks](https://figment.io/): Based in Canada, serving customers worldwide, Figment is the country’s largest blockchain infrastructure, and services provider.
+- [Cyber](https://cyber.page/): Cyber is a decentralized Google. It is an innovative search protocol that can provide provable answers to questions without an intermediary opinion.
+
