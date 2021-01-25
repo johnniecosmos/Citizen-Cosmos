@@ -68,7 +68,7 @@ Questions relating to administrative tasks:
 - [x] [CC community advocate](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/29)
 - [x] [Branding](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/46)
 - [x] [Accountancy](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/47)
-- [ ] [Missing equipment](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/48)
+- [x] [Missing equipment](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/48)
 - [x] [GH documentation order]()
 - [ ] [Editing: payments & work flow]()
 - [ ] [Guest sound guidelines](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/30)
@@ -82,12 +82,12 @@ Questions relating to administrative tasks:
 These are vastly ongoin tasks that constantly require attention:
 
 - [x] [Create working guidelines and flows](https://github.com/citizen-cosmos/Citizen-Cosmos/tree/master/project)
-- [ ] [Transcripts for each episode](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/51)
-- [ ] [Video (picture) podcast version](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/50)
+- [x] [Transcripts for each episode](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/51)
+- [x] [Video (picture) podcast version](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/50)
 - [ ] [TG stickers](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/33)
 - [x] [Community episode](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/35)
 - [ ] [Customer journey experience](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/22)
-- [ ] [Mentioned blockchain projects list for educational purposes](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/21)
+- [x] [Mentioned blockchain projects list for educational purposes](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/21)
 - [ ] [Cross podcast work](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/38)
 - [ ] [Guest lists](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/9)
 - [ ] [Semantics core](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
@@ -98,7 +98,7 @@ These are vastly ongoin tasks that constantly require attention:
 Future visionary plans that can help to shape the bigger picture. Should be taken with a pinch of salt:
 
 - [x] [Bitsong]()
-- [ ] [Citizen Dot]()
+- [ ] [Citizen ETH]()
 - [ ] [DAO]()
 - [ ] [Grants and community pools](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/20)
 - [ ] [Decentraland zone]()
@@ -121,7 +121,7 @@ The Citizen Cosmos validator is its main source of income and one of its communi
 - [x] [Devops]()
 - [ ] [Threshold signing](https://github.com/citizen-cosmos/Staking/issues/3)
 - [x] [Migration]()
-- [ ] [Server payments & accountancy]()
+- [x] [Server payments & accountancy]()
 
 #### Growth and ecosystem
 - [ ] [Website / App](https://github.com/citizen-cosmos/Staking/issues/11)
@@ -141,7 +141,7 @@ The Citizen Cosmos runs various public community iniatives to help communicate i
 
 - [ ] [Administrive questions](#administrative-questions-2)
 - [ ] [Ongoing initiatives](#ongoing-iniatives)
-- [ ] [Public events](#public-events)
+- [x] [Public events](#public-events)
 
 #### Administrative questions
 - [ ] [CC RU community advocate](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/53)
@@ -153,5 +153,5 @@ The Citizen Cosmos runs various public community iniatives to help communicate i
 - [ ] Public good repositories: [1](https://github.com/citizen-cosmos/Awesome-cosmos-social) & [2](https://github.com/citizen-cosmos/Awesome-cosmos-ru)
 
 #### Public events
-- [ ] [Cosmos Moscow meetup work: community calls, cosmos po-russki](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56): Technical team payments
-- [ ] [RU Hakaton](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
+- [x] [Cosmos Moscow meetup work: community calls, cosmos po-russki](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56): Technical team payments
+- [x] [RU Hakaton](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
