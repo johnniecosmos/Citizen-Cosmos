@@ -491,3 +491,5 @@ __Episode list:__
 ###### 21: Denizen Cosmos: Xmas special 2020: [Website link](https://www.citizencosmos.space/dinezen-xmas) | [Web3 link]()
 
 ###### 22: Ian and Jacob, Secret Nodes and Privacy: [Website link](https://www.citizencosmos.space/secret-nodes) | [Web3 link]()
+
+###### 23: Dan Edlebeck, Decentralized VPN's and privacy: [Website link](https://www.citizencosmos.space/exidio) | [Web3 link]()
