@@ -258,3 +258,39 @@ In this episode we talk to Ian and Jacob, the founders of secretnodes.org and th
 - [Figment Networks](https://figment.io/): Based in Canada, serving customers worldwide, Figment is the country’s largest blockchain infrastructure, and services provider.
 - [Cyber](https://cyber.page/): Cyber is a decentralized Google. It is an innovative search protocol that can provide provable answers to questions without an intermediary opinion.
 
+
+## Episode 23: [Dan Edlebeck, Decentralized VPN's and privacy](https://www.citizencosmos.space/exidio)
+In this episode we talk to Dan Edlebeck, the CEO of Exidio. A project that is creating a resilient and robust decentralized VPN solutions on Sentinel. A protocol for dVPN built with the help of Cosmos-SDK and Tendermint.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Exidio](https://exidio.co/): Building decentralized and distributed networking solutions and contributing to the Cosmos open source community. 
+- [Sentinel](https://sentinel.co/): The codebase of the Sentinel dVPN application is completely revealed to the public, ensuring more trust than any other VPN competitor.
+- [Filecoin](https://filecoin.io/): FIlecoin is a decentralised storage network.
+- [Akash Network](https://akash.network): The DeCloud for DeFi, and the world's first decentralized cloud computing marketplace.
+- [Tor Project](https://www.torproject.org/): Defend yourself against tracking and surveillance. Circumvent censorship.
+- [WireGuard](https://www.wireguard.com/): WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
+- [Nord VPN](https://nordvpn.com): A VPN service provides you a secure, encrypted tunnel for online traffic to flow. 
+- [Open VPN](https://openvpn.net/): OpenVPN provides flexible VPN solutions to secure your data communications. 
+- [Orchid](https://www.orchid.com/): Crypto powered VPN. 
+- [Mysterium Network](https://mysterium.network/): Mysterium is building a decentralised P2P VPN and other tools that allow you to browse the internet freely, earn by sharing your connection, and build censorship-resistant applications.
+- [Bitcoin Project](https://bitcoin.org/en/): Bitcoin uses peer-to-peer technology to operate with no central authority or banks.
+- [dVPN Alliance](https://mysterium.network/): Its goal is to set standards within the VPN industry and wider privacy sector that moves us towards a free internet for all.
+- [Mullvad VPN](https://mullvad.net/): In a society increasingly determined to erode that right, a fast, trustworthy and easy-to-use VPN is a good first step toward reclaiming it.
+- [Blockparty](https://blockparty.co/): Blockparty is a digital asset marketplace for digital art, collectibles, NFTs.
+- [Metal Pay](https://www.metalpay.com/): Use Metal Pay to buy MTL and other cryptocurrencies to use in real-life.
+- [Paypal](https://www.paypal.com/)
+- [Messari](https://messari.io/): Providing research, news, metrics and live data for crypto.
+- [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
+- [Polkadot](https://polkadot.network/: Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
+- [Neo](https://neo.org): Neo is an open-source, community driven platform that is leveraging the intrinsic advantages of blockchain technology to realize the optimized digital world of the future.
+- [Cardano](https://cardano.org): Cardano is a proof-of-stake blockchain platform: the first to be founded on peer-reviewed research and developed through evidence-based methods.
+- [EOS](https://eos.io/): EOSIO is the leading open-source blockchain platform that enables transparency in transactions at the speed and scale needed to solve real-world challenges. 
+- [The Breakdown Podcast](https://www.listennotes.com/podcasts/the-breakdown-nathaniel-whittemore-WDqMy-FNJPp/): A daily analysis of macroeconomics, bitcoin, geopolitics and big picture power shifts, hosted by Nathaniel Whittemore @nlw. The Breakdown is produced and distributed by CoinDesk.
+- [Into the Ether Podcast](https://podcast.ethhub.io/): Into the Ether is a podcast focusing on all things Ethereum and DeFi.
+- [Outlier Ventures Podcast](https://outlierventures.io/podcasts/): Founders of Web 3 is a podcast hosted by Outlier Ventures Founder and CEO Jamie Burke which features the people that created and built the next phase of the internet.
+- [Unconfirmed Podcast](https://unconfirmed.libsyn.com/): Insights and Analysis From the Top Minds in Crypto.
+- [Unchained Podcast](https://unchainedpodcast.com/): Your no-hype resource for all things crypto by Laura Shin.
+- [The Delphi Podcast](https://podcasts.apple.com/us/podcast/the-delphi-podcast/id1438148082): Hosts Tom Shaughnessy, Kevin Kelly, Piers Kicks and Yan Liberman's research conversations with the top names in crypto and blockchain.
+- [Sharing Secrets Podcast](https://open.spotify.com/show/1TIx9MAFdaQidDVz32EacG): A podcast by Secret Network.
+- [Epicenter Podcast](https://epicenter.tv/): Epicenter is the OG of crypto podcasts, making sense of cryptocurrencies and blockchain since before they were cool.
+- [The FTX Podcast](https://podtail.com/en/podcast/the-ftx-podcast/): Tristan Yver looks into the stories of emerging and established companies in the crypto and blockchain space. 
