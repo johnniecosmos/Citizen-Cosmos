@@ -70,7 +70,7 @@ Questions relating to administrative tasks:
 - [x] [Accountancy](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/47)
 - [x] [Missing equipment](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/48)
 - [x] [GH documentation order]()
-- [ ] [Editing: payments & work flow]()
+- [x] [Editing: payments & work flow]()
 - [ ] [Guest sound guidelines](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/30)
 - [x] [Hosting platform: payments]()
 - [ ] [Communication channels](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
@@ -90,7 +90,7 @@ These are vastly ongoin tasks that constantly require attention:
 - [x] [Mentioned blockchain projects list for educational purposes](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/21)
 - [ ] [Cross podcast work](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/38)
 - [ ] [Guest lists](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/9)
-- [ ] [Semantics core](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
+- [x] [Semantics core](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
 - [ ] [Blog presence](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/44)
 
 #### Growth
@@ -145,7 +145,7 @@ The Citizen Cosmos runs various public community iniatives to help communicate i
 
 #### Administrative questions
 - [ ] [CC RU community advocate](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/53)
-- [ ] [Grant work](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/20)
+- [x] [Grant work](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/20)
 
 #### Ongoing iniatives 
 - [x] [TIC translations](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/56)
