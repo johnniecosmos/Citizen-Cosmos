@@ -1,4 +1,4 @@
-# Citizen Cosmos podcast content plan and roadmap
+# Citizen Cosmos SM plan
 
 1. Twitter
 - Daily retweets about the Cosmos ecosystem
@@ -22,6 +22,3 @@
 - Forums: sharing podcast and project news whenever possible
 - Any episode news should be shared on all other SM channels
 
-### Content plan
-
-- [Link](https://docs.google.com/spreadsheets/d/1r9ykne5mx2jPafuBJnJS1i3ue8t8DLBYILNUw7SSIkA/edit?usp=sharing)
