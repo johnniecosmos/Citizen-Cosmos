@@ -493,3 +493,5 @@ __Episode list:__
 ###### 22: Ian and Jacob, Secret Nodes and Privacy: [Website link](https://www.citizencosmos.space/secret-nodes) | [Web3 link]()
 
 ###### 23: Dan Edlebeck, Decentralized VPN's and privacy: [Website link](https://www.citizencosmos.space/exidio) | [Web3 link]()
+
+###### 24: Greg Osuri, Akash, DeCloud and UX: [Website link](https://www.citizencosmos.space/akash) | [Web3 link]()
