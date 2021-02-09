@@ -238,6 +238,28 @@ In this episode, we speak to Harriet Cao. Harriet is the co-founder of Iris Netw
 - [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
 
 
+## Episode 21: [Denizen Cosmos: Xmas special 2020](https://www.citizencosmos.space/dinezen-xmas)
+Our special Xmas episode is hosted by Johnnie Red, with Serj & Anna joining to co-host in order to catch up with some of the most active community members of the Cosmos hub and listen to their views on the progression of Cosmos so far. Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus. Cosmos is an ecosystem of blockchains, the TCP/IP of the space, that can scale and interoperate with each other.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [Denizen Cosmos](https://www.citizencosmos.space/): Denizen Cosmos is a special episode series hosted by Citizen Cosmos and co-hosted by Johnnie Cosmos.
+- [Bitcoin Project](https://bitcoin.org/en/): Bitcoin uses peer-to-peer technology to operate with no central authority or banks.
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Doge Coin](https://dogecoin.com/): Dogecoin is an open source peer-to-peer digital currency, favored by Shiba Inus worldwide.
+- [Chainlink](https://chain.link/): Chainlink's decentralized oracle network provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain.
+- [SG-1 Validator & Software Developer](https://sg-1.online/): Starting as a validator with a setup that will be explained in more detail below. We are developing Software all around Cosmos and Tendermint to foster development. 
+- [Cosmos SDK](https://cosmos.network/sdk): The world's most used framework for building blockchains.
+- [IBC (Inter Blockchain Communication Protocol)](https://cosmos.network/ibc): Connecting blockchains is at the heart of interoperability.
+- [Polkadot](https://polkadot.network/: Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Sikka](https://www.sikka.tech/): Sikka is a company focused on building and operating secure infrastructure for blockchains and other decentralized networks.
+- [Trust Wallet](https://trustwallet.com/): Wallet Provider.
+- [Binance](https://binance.com/)
+- [Kava](https://www.kava.io/): Kava's multi-chain DeFi Lending platform offers USDX stablecoin loans and Chainlink oracle data to major blockchains and end-user applications.
+- [Terra](https://terra.money/): Building decentralized payments, savings and investments at scale.
+- [Thorchain](https://thorchain.org/): Deposit native assets into Liquidity Pools to earn yield. The network is 100% autonomous and decentralized.
+- [Agoric](https://agoric.com/): Agoric empowers individuals to securely execute transactions, establish new markets, and craft novel patterns of exchange without centralized control.
+
+
 ## Episode 22: [Ian and Jacob, Secret Nodes and Privacy](https://www.citizencosmos.space/secret-nodes)
 In this episode we talk to Ian and Jacob, the founders of secretnodes.org and the Puzzle Report explorer for Secret Network, a Cosmos-SDK blockchain with privacy-preserving smart contracts.
 - [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
