@@ -316,3 +316,33 @@ In this episode we talk to Dan Edlebeck, the CEO of Exidio. A project that is cr
 - [Sharing Secrets Podcast](https://open.spotify.com/show/1TIx9MAFdaQidDVz32EacG): A podcast by Secret Network.
 - [Epicenter Podcast](https://epicenter.tv/): Epicenter is the OG of crypto podcasts, making sense of cryptocurrencies and blockchain since before they were cool.
 - [The FTX Podcast](https://podtail.com/en/podcast/the-ftx-podcast/): Tristan Yver looks into the stories of emerging and established companies in the crypto and blockchain space. 
+
+## Episode 24: [Greg Osuri, Akash, DeCloud and UX](https://www.citizencosmos.space/akash)
+In this episode we talk to Greg Osuri, the CEO of Akash Network. The DeCloud for DeFi, and the world's first decentralized cloud computing marketplace built with the help of Cosmos-SDK and Tendermint.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Akash Network](https://akash.network): The DeCloud for DeFi, and the world's first decentralized cloud computing marketplace.
+- [Equinix Metal](https://metal.equinix.com/): Global, interconnected bare metal.
+- [Filecoin](https://filecoin.io/): FIlecoin is a decentralised storage network.
+- [Packet](https://www.packet.com/): Packet was acquired by Equinix in March. To help make our vision for global, interconnected bare metal a reality, we've rebranded Packet as Equinix Metal™ and introduced new locations and features.
+- [Elastic](https://www.elastic.co/elasticsearch/): Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.
+- [Binance](https://binance.com/)
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Google](https://google.com)
+- [Facebook](https://facebook.com)
+- [Microsoft](https://microsoft.com)
+- [Amazon](https://amazon.com)
+- [Alibaba](https://alibaba.com)
+- [McDonalds](mcdonalds.com)
+- [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
+- [MyEtherWallet](https://www.myetherwallet.com/): MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain. 
+- [NuCypher](https://www.nucypher.com/): Cryptographic Infrastructure for Privacy-Preserving Application.
+- [Urbit](https://urbit.org/): Urbit claims to be a clean-slate OS and network for the 21st century.
+- [Bitmax](https:/bitmax.io): Bitmax is a CEX.
+- [AngelHack](https://angelhack.com/): AngelHack was founded on the idea of bringing creators together. Our first project was a Hackathon – a space where founders could meet, developers could discover opportunities, and entrepreneurs could shape their ideas into reality.
+- [Kubernetes](https://kubernetes.io/): Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.
+- [IBC (Inter Blockchain Communication Protocol)](https://cosmos.network/ibc): Connecting blockchains is at the heart of interoperability.
+- [Docker](https://docker.com): We help developers and development teams build and ship apps.
+- [Uniswap](https://uniswap.com): We help developers and development teams build and ship apps.
+- [Sia Coin](https://sia.tech/): Sia is the leading decentralized cloud storage platform. No signups, no servers, no trusted third parties. 
+- [Omega Project](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
