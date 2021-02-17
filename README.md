@@ -497,7 +497,7 @@ __Episode list:__
 ###### 24: Greg Osuri, Akash, DeCloud and UX: [Website link](https://www.citizencosmos.space/akash) | [Web3 link]()
 
 
-| # | Episode | Website | YouTube | Web3: cyber.page | Web3: Bitsong | IPFS hash | Timeline |
-|---|---------|---------|---------|------------------|---------------|-----------|----------|
-| ##### 1 | Gavin from Figment Network & governance | [Website](https://www.citizencosmos.space/figment-network-governance) | [YouTube](https://www.youtube.com/watch?v=30DCKBWhUCI) | [cyber.page]() | [BitSong](https://demo.bitsong.io/track/158) | QmaKBaBnfqUkK789dtk2UWZzfTdti7DRYuapQz8CRWJFZh | <details>
-<summary>Episode Timeline</summary> </details> |
+| # | Episode | YouTube | cyber.page | Bitsong | Timeline |
+|---|---------|---------|------------|---------|----------|
+| 1 | [Gavin from Figment Network & governance](https://www.citizencosmos.space/figment-network-governance) | [YouTube](https://www.youtube.com/watch?v=30DCKBWhUCI) | [cyber.page]() | [BitSong](https://demo.bitsong.io/track/158) | <details>
+<summary> Episode Timeline </summary> </details> |
