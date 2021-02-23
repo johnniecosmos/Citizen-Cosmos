@@ -496,6 +496,8 @@ __Episode list:__
 
 ###### 24: Greg Osuri, Akash, DeCloud and UX: [Website link](https://www.citizencosmos.space/akash) | [Web3 link]()
 
+###### 25: Reda Berrehili, Ki Foundation: [Website link](https://www.citizencosmos.space/ki) | [Web3 link]()
+
 
 | # | Episode Name & Link | YouTube | Web3: cyber.page | Web3: Bitsong | Transcript |
 |---|---------|---------|------------|---------|----------|
