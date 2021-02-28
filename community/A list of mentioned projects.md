@@ -303,7 +303,7 @@ In this episode we talk to Dan Edlebeck, the CEO of Exidio. A project that is cr
 - [Paypal](https://www.paypal.com/)
 - [Messari](https://messari.io/): Providing research, news, metrics and live data for crypto.
 - [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
-- [Polkadot](https://polkadot.network/: Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
+- [Polkadot](https://polkadot.network/): Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
 - [Neo](https://neo.org): Neo is an open-source, community driven platform that is leveraging the intrinsic advantages of blockchain technology to realize the optimized digital world of the future.
 - [Cardano](https://cardano.org): Cardano is a proof-of-stake blockchain platform: the first to be founded on peer-reviewed research and developed through evidence-based methods.
 - [EOS](https://eos.io/): EOSIO is the leading open-source blockchain platform that enables transparency in transactions at the speed and scale needed to solve real-world challenges. 
@@ -346,3 +346,23 @@ In this episode we talk to Greg Osuri, the CEO of Akash Network. The DeCloud for
 - [Uniswap](https://uniswap.com): We help developers and development teams build and ship apps.
 - [Sia Coin](https://sia.tech/): Sia is the leading decentralized cloud storage platform. No signups, no servers, no trusted third parties. 
 - [Omega Project](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
+
+## Episode 25: [Reda Berrehili, Ki Foundation](https://www.citizencosmos.space/ki)
+- [Ki Foundation](https://foundation.ki/en): Ki Foundation is Deploying a new currency with a sustainable business model.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Terra](https://terra.money/): Building decentralized payments, savings and investments at scale.
+- [Ethermint](docs.ethermint.zone): Ethereum Virtual Machine, powered by Tendermint BFT.
+- [CosmWasm](https://cosmwasm.com/): Build your robust dApps on secure, multi-chain smart contract.
+- [Persistence](https://persistence.one/): Building an ecosystem of financial products to serve institutional and crypto-native user.
+- [Rust](https://www.rust-lang.org/): A language empowering everyone to build reliable and efficient software.
+- [Polkadot](https://polkadot.network/): Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
+- [Nexo](https://nexo.io/): Crytpo Banking.
+- [Celsius Network](https://celsius.network/): The modern way to manage assets.
+- [Klub Ki](https://klub.ki/: Klub Ki is a neobank and lifestyle club.
+- [Kava](https://www.kava.io/): Kava's multi-chain DeFi Lending platform offers USDX stablecoin loans and Chainlink oracle data to major blockchains and end-user applications.
+- [Filecoin](https://filecoin.io/): FIlecoin is a decentralised storage network.
+- [Coinmarketcap](https://coinmarketcap.com/): Cryptocurrency Prices and Market Capitalisation.
+- [CoinGecko](https://www.coingecko.com/en): Cryptocurrency Prices and Market Capitalisation.
+- [Haskell Project](https://www.haskell.org/): An advanced, purely functional programming language.
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
