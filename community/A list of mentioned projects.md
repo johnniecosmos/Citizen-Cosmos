@@ -238,6 +238,30 @@ In this episode, we speak to Harriet Cao. Harriet is the co-founder of Iris Netw
 - [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
 
 
+## Episode 12: [Peng Zhong, management & decentralization](https://www.citizencosmos.space/peng-tendermint)
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Polkadot](https://polkadot.network/: Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
+- [Cyber](https://cyber.page/): Cyber is a decentralized Google. It is an innovative search protocol that can provide provable answers to questions without an intermediary opinion.
+- [Cosmos SDK](https://cosmos.network/sdk): The world's most used framework for building blockchains.
+- [Lunie](https://lunie.io/): Lunie was a wallet that stoped operating since late 2020.
+- [Chainsafe](https://chainsafe.io): ChainSafe is a global leader in blockchain protocol and infrastructure development.
+- [Aragon](https://aragon.org): Aragon gives internet communities power to organize around shared values and resources.
+- [Prism Break](https://gitlab.com/prism-break/prism-break): Privacy/security-oriented software recommendations.
+- [Near Protocol](https://gitlab.com/prism-break/prism-break): NEAR is an open source platform that accelerates the development of decentralized applications.
+- [IBC (Inter Blockchain Communication Protocol)](https://cosmos.network/ibc): Connecting blockchains is at the heart of interoperability.
+- [Stargate Upgrade](https://stargate.cosmos.network): Stargate is an upgrade of the three layers of the Cosmos stack.
+- [ICF (Interchain Foundation)](https://interchain.io/): ICF fund and collaborate with a wide variety of projects in Research, Engineering, Product, Social Good, and Community.
+- [Twitter](https://twitter.com)
+- [Slack](https://slack.com/)
+- [Facebook](https://facebook.com)
+- [Filecoin](https://filecoin.io/): FIlecoin is a decentralised storage network.
+- [IPFS](https://ipfs.io/): A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+- [Google Firebase](https://firebase.google.com/): Firebase helps you build and run apps.
+- [Apple](https://apple.com)
+- [Ava Labs](https://avalabs.org): Avalanche is an open-source platform for launching decentralised applications, new financial primitives, and new interoperable blockchains.
+
+
 ## Episode 21: [Denizen Cosmos: Xmas special 2020](https://www.citizencosmos.space/dinezen-xmas)
 Our special Xmas episode is hosted by Johnnie Red, with Serj & Anna joining to co-host in order to catch up with some of the most active community members of the Cosmos hub and listen to their views on the progression of Cosmos so far. Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus. Cosmos is an ecosystem of blockchains, the TCP/IP of the space, that can scale and interoperate with each other.
 - [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
