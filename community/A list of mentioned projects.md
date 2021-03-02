@@ -262,6 +262,29 @@ In this episode, we speak to Harriet Cao. Harriet is the co-founder of Iris Netw
 - [Ava Labs](https://avalabs.org): Avalanche is an open-source platform for launching decentralised applications, new financial primitives, and new interoperable blockchains.
 
 
+## Episode 13: [Josh Lee aka Dogemos](https://www.citizencosmos.space/dogemos-keplr)
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Keplr](https://wallet.keplr.app/): Keplr is the wallet for the Interchain on Cosmos ecosystem.
+- [Doge Coin](https://dogecoin.com/): Dogecoin is an open source peer-to-peer digital currency, favored by Shiba Inus worldwide.
+- [Bitcoin Project](https://bitcoin.org/en/): Bitcoin uses peer-to-peer technology to operate with no central authority or banks.
+- [Lunamint](https://lunamint.com): Cosmos validator and application services.
+- [McDonalds](mcdonalds.com)
+- [Pepsi](pepsi.com)
+- [Discord](discord.com)
+- [Telegram](telegram.org)
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Cosmos SDK](https://cosmos.network/sdk): The world's most used framework for building blockchains.
+- [Lunie](https://lunie.io/): Lunie was a wallet that stoped operating since late 2020.
+- [Stargate Upgrade](https://stargate.cosmos.network): Stargate is an upgrade of the three layers of the Cosmos stack.
+- [IBC (Inter Blockchain Communication Protocol)](https://cosmos.network/ibc): Connecting blockchains is at the heart of interoperability.
+- [Ox](https://0x.org/): 0x API is a professional grade liquidity aggregator enabling the future of DeFi applications.
+- [IPFS](https://ipfs.io/): A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+- [Interchain Accounts](https://github.com/chainapsis/cosmos-sdk-interchain-account): Interchain accounts allows a IBC-connected foreign blockchain to send a transaction via the local account of the a local blockchain.
+- [Cyber](https://cyber.page/): Cyber is a decentralized Google. It is an innovative search protocol that can provide provable answers to questions without an intermediary opinion.
+- [Kava](https://www.kava.io/): Kava's multi-chain DeFi Lending platform offers USDX stablecoin loans and Chainlink oracle data to major blockchains and end-user applications.
+
+
 ## Episode 21: [Denizen Cosmos: Xmas special 2020](https://www.citizencosmos.space/dinezen-xmas)
 Our special Xmas episode is hosted by Johnnie Red, with Serj & Anna joining to co-host in order to catch up with some of the most active community members of the Cosmos hub and listen to their views on the progression of Cosmos so far. Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus. Cosmos is an ecosystem of blockchains, the TCP/IP of the space, that can scale and interoperate with each other.
 - [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
