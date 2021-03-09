@@ -498,6 +498,8 @@ __Episode list:__
 
 ###### 25: Reda Berrehili, Ki Foundation: [Website link](https://www.citizencosmos.space/ki) | [Web3 link]()
 
+###### 26: Chjango Unchained, community and ecosystem: [Website link](https://www.citizencosmos.space/chjango) | [Web3 link]()
+
 
 | # | Episode Name & Link | YouTube | Web3: cyber.page | Web3: Bitsong | Transcript |
 |---|---------|---------|------------|---------|----------|
