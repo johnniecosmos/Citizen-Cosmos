@@ -413,3 +413,20 @@ In this episode we talk to Greg Osuri, the CEO of Akash Network. The DeCloud for
 - [CoinGecko](https://www.coingecko.com/en): Cryptocurrency Prices and Market Capitalisation.
 - [Haskell Project](https://www.haskell.org/): An advanced, purely functional programming language.
 - [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+
+
+## Episode 26: [Chjango Unchained, community and ecosystem](https://www.citizencosmos.space/chjango)
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Bitcoin Project](https://bitcoin.org/en/): Bitcoin uses peer-to-peer technology to operate with no central authority or banks.
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Doge Coin](https://dogecoin.com/): Dogecoin is an open source peer-to-peer digital currency, favored by Shiba Inus worldwide.
+- [Uniswap](https://uniswap.org/): Guaranteed liquidity for millions of users and hundreds of Ethereum applications.
+- [Sushiswap](https://sushi.com/): The SushiSwap protocol realigns incentives for network participants by introducing revenue sharing and forum-driven network efforts to the popular AMM model.
+- [1inch](https://1inch.exchange/): 1inch offers the best rates by discovering the most efficient swapping routes across all leading DEXes.
+- [Supernova](https://supernova.community/): Supernova is a Cosmos Zone that allows any project to build an engaged community from day one.
+- [Tether](https://tether.to/): Tether converts cash into digital currency, to anchor or tether the value to the price of national currencies like the US dollar, the Euro, and the offshore Chinese yuan.
+- [Handshake](https://handshake.org/): An experimental peer-to-peer root naming system.
+- [Obelisk](https://obelisk.tech/): Building trustless hardware for the blockchain industry and beyond.
+- [CoinMarketCap](https://coinmarketcap.com/)
+
