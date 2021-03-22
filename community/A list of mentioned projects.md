@@ -285,6 +285,35 @@ In this episode, we speak to Harriet Cao. Harriet is the co-founder of Iris Netw
 - [Kava](https://www.kava.io/): Kava's multi-chain DeFi Lending platform offers USDX stablecoin loans and Chainlink oracle data to major blockchains and end-user applications.
 
 
+## Episode 14: [Billy Rennekamp, Tendermint vs ICF](https://www.citizencosmos.space/billy-icf)
+This time our guest is Billy Rennekamp, the grants manager at Interchain Foundation and the founder of Clovers Network.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [ICF (Interchain Foundation)](https://interchain.io/): ICF fund and collaborate with a wide variety of projects in Research, Engineering, Product, Social Good, and Community.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Regen Network](https://www.regen.network/): Regen Network aligns economics with ecology to drive regenerative land management.
+- [Informal Systems](https://informal.systems/): We envision an open-source ecosystem of cooperatively owned and governed distributed organizations running on reliable distributed systems.
+- [CosmWasm](https://cosmwasm.com/): Build your robust dApps on secure, multi-chain smart contract.
+- [Althea](https://althea.net/): Fast, affordable, locally run internet.
+- [Gravity Bridge](https://github.com/althea-net/cosmos-gravity-bridge): A Cosmos hub bridge to Ethereum developed by Althea.
+- [Chainsafe](https://chainsafe.io): ChainSafe is a global leader in blockchain protocol and infrastructure development.
+- [Ethermint](docs.ethermint.zone): Ethereum Virtual Machine, powered by Tendermint BFT.
+- [Lunie](https://lunie.io/): Lunie was a wallet that allowed participating in staking, governance, and keep up-to-date with your favourite networks.
+- [Kusama](https://kusama.network/): Built using Substrate with nearly the same codebase and industry-leading multichain infrastructure as Kusama’s cousin, Polkadot.
+- [Ardent](https://www.argent.xyz/): The most simple and secure smart wallet for crypto.
+- [Forte](https://www.forte.io/): Economic Technology for Games.
+- [Curve Labs](https://www.curvelabs.eu/): Architecting cybernetic solutions for the distributed economy.
+- [IXO Foundation](https://ixo.foundation/): Webs of trust connect people, machines and software agents to share intelligence, coordinate local actions and deliver impacts with precision.
+- [IXO Foundation](https://ixo.foundation/): Webs of trust connect people, machines and software agents to share intelligence, coordinate local actions and deliver impacts with precision.
+- [Bitcoin Project](https://bitcoin.org/en/): Bitcoin uses peer-to-peer technology to operate with no central authority or banks.
+- [Solidity](https://soliditylang.org/): Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Gnosis](https://gnosis.io): Gnosis builds new market mechanisms for decentralized finance.
+- [Clovers Network](https://clovers.network): Discover, collect & trade cryptographic icons.
+- [Agora](https://www.agora.vote/): Bringing voting systems into the digital age.
+- [Aragon](https://aragon.org/): Central points of failure are holding us back -- we're changing that.
+- [Stargate Upgrade](https://stargate.cosmos.network): Stargate is an upgrade of the three layers of the Cosmos stack.
+
+
 ## Episode 21: [Denizen Cosmos: Xmas special 2020](https://www.citizencosmos.space/dinezen-xmas)
 Our special Xmas episode is hosted by Johnnie Red, with Serj & Anna joining to co-host in order to catch up with some of the most active community members of the Cosmos hub and listen to their views on the progression of Cosmos so far. Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus. Cosmos is an ecosystem of blockchains, the TCP/IP of the space, that can scale and interoperate with each other.
 - [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
@@ -395,6 +424,7 @@ In this episode we talk to Greg Osuri, the CEO of Akash Network. The DeCloud for
 - [Omega Project](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
 
 ## Episode 25: [Reda Berrehili, Ki Foundation](https://www.citizencosmos.space/ki)
+In this episode we talk to Reda Berrehilli, the CEO and founder of Ki foundation, which are deploying a new currency and building a fund with the help of Cosmos-SDK blockchain technology and Tendermint.
 - [Ki Foundation](https://foundation.ki/en): Ki Foundation is Deploying a new currency with a sustainable business model.
 - [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
 - [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
@@ -416,6 +446,7 @@ In this episode we talk to Greg Osuri, the CEO of Akash Network. The DeCloud for
 
 
 ## Episode 26: [Chjango Unchained, community and ecosystem](https://www.citizencosmos.space/chjango)
+In this episode we talk to Chjango Unchained, a free speech advocate, host of the interchain.fm podcast and an ex VP of ecosystem development at Tendermint.
 - [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
 - [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
 - [Bitcoin Project](https://bitcoin.org/en/): Bitcoin uses peer-to-peer technology to operate with no central authority or banks.
@@ -429,4 +460,20 @@ In this episode we talk to Greg Osuri, the CEO of Akash Network. The DeCloud for
 - [Handshake](https://handshake.org/): An experimental peer-to-peer root naming system.
 - [Obelisk](https://obelisk.tech/): Building trustless hardware for the blockchain industry and beyond.
 - [CoinMarketCap](https://coinmarketcap.com/)
+
+
+## Episode 27: [Tess Rinearson, software development and Interchain](https://www.citizencosmos.space/tess)
+In this episode we talk to Tess Rinearson, the VPE at Interchain GMBH aka Tendermint core.
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [ICF (Interchain Foundation)](https://interchain.io/): ICF fund and collaborate with a wide variety of projects in Research, Engineering, Product, Social Good, and Community.
+- [Stellar](https://www.stellar.org/): Stellar is an open network for storing and moving money.
+- [Stellar Slingshot](https://github.com/stellar/slingshot): Accelerating trajectory into interstellar space.
+- [Cosmos SDK](https://cosmos.network/sdk): The world's most used framework for building blockchains.
+- [Jepsen](https://jepsen.io/): Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems and more.
+- [Gaia](https://github.com/cosmos/gaia): Gaia is the first implementation of the Cosmos Hub, built using the Cosmos SDK. 
+- [Urbit](https://urbit.org/): Urbit is a clean-slate OS and network for the 21st century.
+- [Informal Systems](https://informal.systems/): We envision an open-source ecosystem of cooperatively owned and governed distributed organizations running on reliable distributed systems.
+- [Regen Network](https://www.regen.network/): Regen Network aligns economics with ecology to drive regenerative land management.
+- [Tendermint Core](https://tendermint.com/core/): The leading BFT engine for building blockchains.
 
