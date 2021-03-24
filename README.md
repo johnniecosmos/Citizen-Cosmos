@@ -500,7 +500,9 @@ __Episode list:__
 
 ###### 26: Chjango Unchained, community and ecosystem: [Website link](https://www.citizencosmos.space/chjango) | [Web3 link]()
 
-###### 27: Hashohi, analyzing crypto, web3 and coffee: [Website link](https://www.citizencosmos.space/hashoshi) | [Web3 link]()
+###### 27: Tess Rinearson, software development and Interchain: [Website link](https://www.citizencosmos.space/tess) | [Web3 link]()
+
+###### 28: Hashohi, analyzing crypto, web3 and coffee: [Website link](https://www.citizencosmos.space/hashoshi) | [Web3 link]()
 
 
 | # | Episode Name & Link | YouTube | Web3: cyber.page | Web3: Bitsong | Transcript |
