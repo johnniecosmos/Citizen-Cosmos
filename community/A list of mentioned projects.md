@@ -477,3 +477,22 @@ In this episode we talk to Tess Rinearson, the VPE at Interchain GMBH aka Tender
 - [Regen Network](https://www.regen.network/): Regen Network aligns economics with ecology to drive regenerative land management.
 - [Tendermint Core](https://tendermint.com/core/): The leading BFT engine for building blockchains.
 
+
+## Episode 28: [Hashohi, analyzing crypto, web3 and coffee](https://www.citizencosmos.space/hashoshi)
+- [Cosmos Network](https://cosmos.network/): Cosmos is an ecosystem of connected blockchains or 'the internet of blockchains'. It is the TCP/IP of web3. A truly decentralized communication protocol.
+- [All in Bits Inc aka Tendermint](https://tendermint.com/): Tendermint the company (which also does business as All in Bits Inc., a Delaware for-profit corporation) is the creator of Tendermint, a blockchain consensus project. 
+- [Bitcoin Project](https://bitcoin.org/en/): Bitcoin uses peer-to-peer technology to operate with no central authority or banks.
+- [YouTube](https://youtube.com)
+- [Ethereum](https://ethereum.org): Ethereum is a global, open-source platform for decentralized applications.
+- [Solana](https://solana.com/): Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.
+- [Polkadot](https://polkadot.network/): Polkadot development aims to deliver a robust platform for security, scalability, interoperability and innovation.
+- [Ethermint](docs.ethermint.zone): Ethereum Virtual Machine, powered by Tendermint BFT.
+- [Cardano Project](https://cardano.org/): Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change.
+- [Icon](https://icon.foundation/): The ICON Network is comprised of various institutions ranging from:
+financial institutions, insurance companies, hospitals, universities and more.
+- [IBC (Inter Blockchain Communication Protocol)](https://cosmos.network/ibc): Connecting blockchains is at the heart of interoperability.
+- [Google](https://google.com)
+- [ICF (Interchain Foundation)](https://interchain.io/): ICF fund and collaborate with a wide variety of projects in Research, Engineering, Product, Social Good, and Community.
+- [Elrond](https://elrond.com/): A highly scalable, fast and secure blockchain platform for distributed apps, enterprise use cases and the new internet economy.
+- [Docker](https://www.docker.com/): Accelerate how you build, share and run modern applications.
+- [Solidity](https://soliditylang.org/): Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.
